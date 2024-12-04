@@ -9,15 +9,15 @@
     body {
         background-color: #008080;
         /* background-image: url("converted/exhibition_images/Lubaina Himid/A Fashionable Marriage Castrato Krytyk (2)~hi.jpg"); */
-        height: 1800px;
-        width: 15600px;
+        height: 1890px;
+        width: 15050px;
         overflow: hidden;
         position: relative;
     }
 
     .desktop-background-container{
-        height: 1800px;
-        width: 15600px;
+        height: 1890px;
+        width: 15050px;
     }
 
     /* Taskbar */
