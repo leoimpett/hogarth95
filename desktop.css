@@ -1,0 +1,80 @@
+    /* General Reset */
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    /* Body Background */
+    body {
+        background-color: #008080;
+        /* background-image: url("converted/exhibition_images/Lubaina Himid/A Fashionable Marriage Castrato Krytyk (2)~hi.jpg"); */
+        height: 1800px;
+        width: 15600px;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .desktop-background-container{
+        height: 1800px;
+        width: 15600px;
+    }
+
+    /* Taskbar */
+    .taskbar {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        height: 60px;
+        background-color: #C0C0C0;
+        display: flex;
+        align-items: center;
+        padding: 0 10px;
+        border-top: 2px solid white; /* White highlight at the top */
+    }
+
+    /* Time Display */
+    .taskbar * {
+        color: black;
+        font-family: "Pixelated MS Sans Serif", Arial, sans-serif;  
+        font-size: 28px;
+    }
+
+    .start-button{
+        padding-top:3px;
+    }
+
+    /* Windows Icon */
+    .start-button img {
+        vertical-align: middle; /* Aligns the icon with the text */
+    }
+
+    /* Desktop Icon Container */
+    .desktop-icon {
+        width: 100px;
+        text-align: center;
+        cursor: pointer;
+        color: white;
+        font-family: "Pixelated MS Sans Serif", Arial, sans-serif;
+        font-size: 14px;
+    }
+
+    .desktop-icon img {
+        width: 48px;
+        height: 48px;
+        margin-bottom: 5px;
+    }
+
+    /* Positioning Icons in Grid */
+    #desktop {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        display: grid;
+        grid-template-columns: repeat(16, auto);
+        grid-gap: 30px 20px;
+    }
+
+    img {
+        image-rendering: pixelated;
+    }

@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>98.css Animation Example</title>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="https://unpkg.com/98.css" />
+  <style>
+    body {
+      margin: 20px;
+    }
+    .window {
+      position: absolute;
+    /* width: 600px;  Standard width */
+    /* height: 400px; Standard height */
+    }
+    .window img {
+      width: 100%;
+      height: 100%;  /* Make the image fit the window body */
+      transform-origin: top left; /* For scaling */
+    }
+  </style>
+</head>
+
+<body>
+      <style>
+        body {
+          margin: 20px;
+        }
+      
+        .window {
+          position: absolute;
+          overflow: hidden; /* Ensure that the image doesn't overflow the window */
+        }
+      
+      
+        /* Button activation styling */
+        .title-bar-controls button:active, .activated {
+          background-color: #000080; /* Windows 98 active button color */
+          color: white;
+          box-shadow: inset 2px 2px 2px #000000;
+          border: 1px solid #ffffff;
+        }
+
+
+
+        .desktop-background-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 15600px;
+            height: 1800px;
+            border: none;
+        }
+      </style>
+      
+
+      <iframe class="desktop-background-iframe" src="./windows_background.html"  frameborder="0"></iframe>
+
+      <script>
+        const TITLE_BAR_HEIGHT = 50; // Approximate height of the title bar
+        const STATUS_BAR_HEIGHT = 25; // Approximate height of the status bar
+        const WINDOW_PAD_WIDTH = 40; // Padding width for the window
+      
+        // Load the JSON animation file
+        fetch('https://gist.githubusercontent.com/leoimpett/8e982baf2642bee83ee38db97944c277/raw/f142aff44ccb61cad235663f33d6dcb7e69ae189/combined_folders.json')
+            .then(response => response.json())
+            .then(data => {
+              const imagePaths = data.windows.map(window => window.image);
+              preloadImages(imagePaths, preloadedImages => {
+                // Once images are preloaded, start animations
+                console.log("All images preloaded");
+                startAnimations(data);
+              });
+            })
+            .catch(error => console.error('Error loading animation JSON:', error));
+
+      
+        let startTime;
+        const activeWindows = {};
+        const activeButtonTimers = {};
+      
+        function startAnimations(data) {
+          const windows = data.windows;
+      
+          function animate(time) {
+            if (!startTime) startTime = time;
+            const elapsed = time - startTime;
+
+            // Do text window stuff here
+            if (elapsed >= 0 && !activeWindows['textWindow1']) { // Replace 5000 with the desired time in ms
+                  createTextWindow(
+                    'textWindow1',                // Unique ID
+                    'Warning',                // Window title
+                    '<p> This exhibition is part of the ArTechLaw initiative, \
+                      a collaborative network exploring intersections between art, law, and technology. \
+                      The project brings together scholars and practitioners from diverse disciplines, \
+                      including art history, legal studies, and digital humanities. \
+                      <br><br> We extend special thanks to Kristen McDonald and Scott Poglitsch for their \
+                      exceptional work in preparing the images for display in the Data Arena. \
+                      The exhibition has been conceived and developed by Leonardo Impett and Cynthia Roman, \
+                      with support from the Australian Research Council Discovery Project (DP200101046) \
+                      and the Danish Research Council ArTechLaw Research Network (9055-00075B). \
+                      <br><br>Unless otherwise noted, all images are from the collections \
+                      of the Lewis Walpole Library, Yale University.  \
+                      <br> <br> We acknowledge the traditional custodians of Country throughout Australia and recognise that this always has been and always will be Aboriginal and Torres Strait Island land and waters. We offer our respect to Aboriginal and Torres Strait Island cultures and to Elders past and present. \
+                      \ </p> <button> OK </button> &nbsp;&nbsp;&nbsp;&nbsp; <button> Cancel </button>', // Window content
+                    14050,                          // Left position
+                    500,                          // Top position
+                    465                           // Height (optional)
+                  );
+                  activeWindows['textWindow1'] = true; // Track this window as active
+                }
+
+      
+            // Loop through the windows
+            windows.forEach(window => {
+              // Check if the window should be created
+              if (!activeWindows[window.id] && elapsed >= window.createTime) {
+                createWindow(window);
+              }
+      
+              // Check if the window should be deleted (only if deleteTime is positive)
+              if (activeWindows[window.id] && window.deleteTime > 0) {
+                // Trigger minimize 100ms before deleteTime
+                if (elapsed >= window.deleteTime - 100 ) {
+                  triggerMinimize(window.id);
+                  activeWindows[window.id].minimized = true;  // Mark as minimized
+                }
+      
+                // Delete window at deleteTime
+                if (elapsed >= window.deleteTime) {
+                  removeWindow(window.id);
+                }
+              }
+      
+              // Apply animations if the window is active
+              if (activeWindows[window.id]) {
+                const element = document.getElementById(window.id);
+                const keyframes = window.keyframes;
+      
+                // Find the two keyframes we are between
+                let prevKeyframe, nextKeyframe;
+                for (let i = 0; i < keyframes.length - 1; i++) {
+                  if (elapsed >= keyframes[i].time && elapsed <= keyframes[i + 1].time) {
+                    prevKeyframe = keyframes[i];
+                    nextKeyframe = keyframes[i + 1];
+                    break;
+                  }
+                }
+      
+                if (prevKeyframe && nextKeyframe) {
+                  const progress = (elapsed - prevKeyframe.time) / (nextKeyframe.time - prevKeyframe.time);
+      
+                  // Interpolate between the keyframes for each property
+                  const left = interpolate(prevKeyframe.left, nextKeyframe.left, progress);
+                  const top = interpolate(prevKeyframe.top, nextKeyframe.top, progress);
+                  const opacity = interpolate(prevKeyframe.opacity, nextKeyframe.opacity, progress);
+                  const scale = interpolate(prevKeyframe.scale, nextKeyframe.scale, progress);
+      
+                  // Apply the properties to the window
+                  element.style.left = left + 'px';
+                  element.style.top = top + 'px';
+                  element.style.opacity = opacity;
+       
+                  // Apply width and height scaling to both window and image
+                  const img = element.querySelector('img');
+                  const aspectRatio = img.naturalWidth / img.naturalHeight; 
+      
+                  const newWidth = (1000 * scale); // Base width is 600px
+                  const newHeight = newWidth / aspectRatio; // Maintain aspect ratio
+
+                  // const newHeight = (3000 * scale); // Base height is 3000px
+                  // const newWidth = newHeight * aspectRatio; // Maintain aspect ratio
+
+                  const windowHeight = newHeight + TITLE_BAR_HEIGHT + STATUS_BAR_HEIGHT; // Account for title and status bar
+      
+                  element.style.width = `${newWidth}px`;
+                  element.style.height = `${windowHeight}px`;
+                  img.style.width = `${newWidth - WINDOW_PAD_WIDTH}px`;
+                  img.style.height = `${newHeight}px`;
+      
+
+                }
+              }
+            });
+      
+            requestAnimationFrame(animate); // Continue the animation loop
+          }
+      
+          requestAnimationFrame(animate);
+        }
+      
+        // Create a new window element
+        function createWindow(window) {
+          const windowDiv = document.createElement('div');
+          windowDiv.classList.add('window');
+          windowDiv.id = window.id;
+      
+          // Title bar
+          const titleBar = document.createElement('div');
+          titleBar.classList.add('title-bar');
+      
+          const titleText = document.createElement('div');
+          titleText.classList.add('title-bar-text');
+          titleText.id = `${window.id}-title`;
+          titleText.textContent = window.title;
+          titleBar.appendChild(titleText);
+      
+          // Title bar controls
+          const titleBarControls = document.createElement('div');
+          titleBarControls.classList.add('title-bar-controls');
+          
+          const minimizeButton = document.createElement('button');
+          minimizeButton.setAttribute('aria-label', 'Minimize');
+          minimizeButton.addEventListener('click', () => minimizeWindow(window.id));  // Minimize button event
+          titleBarControls.appendChild(minimizeButton);
+      
+          const maximizeButton = document.createElement('button');
+          maximizeButton.setAttribute('aria-label', 'Maximize');
+          titleBarControls.appendChild(maximizeButton);
+      
+          const closeButton = document.createElement('button');
+          closeButton.setAttribute('aria-label', 'Close');
+          closeButton.addEventListener('click', () => removeWindow(window.id));  // Close button event
+          titleBarControls.appendChild(closeButton);
+      
+          // Append controls to the title bar
+          titleBar.appendChild(titleBarControls);
+          
+            // Window body
+        const bodyDiv = document.createElement('div');
+        bodyDiv.classList.add('window-body');
+        bodyDiv.style.padding = '10px';
+
+        // Fetch the first keyframe for positioning
+        const firstKeyframe = window.keyframes[0]; // Assuming keyframes array is present in the window object
+
+        // Set initial position based on the first keyframe's left and top values
+        windowDiv.style.left = `${firstKeyframe.left}px`;
+        windowDiv.style.top = `${firstKeyframe.top}px`;
+
+        const img = document.createElement('img');
+        img.id = `${window.id}-image`;
+        img.src = window.image;
+        img.onload = () => {
+        // Adjust the window size based on the image's aspect ratio
+        const aspectRatio = img.naturalWidth / img.naturalHeight;
+        const baseWidth = 1000; // Base width
+        const baseHeight = baseWidth / aspectRatio;
+        // const baseHeight = 3000; // Base height
+        // const baseWidth = baseHeight * aspectRatio;
+
+
+        windowDiv.style.width = `${baseWidth + WINDOW_PAD_WIDTH}px`;
+        windowDiv.style.height = `${baseHeight + TITLE_BAR_HEIGHT + STATUS_BAR_HEIGHT}px`; // Adjust window for title and status bar
+        };
+
+        // Append the image to the body div
+        bodyDiv.appendChild(img);
+
+          // Status bar
+          const statusBar = document.createElement('div');
+          statusBar.classList.add('status-bar');
+          const statusText = document.createElement('p');
+          statusText.classList.add('status-bar-field');
+          statusText.id = `${window.id}-status`;
+          statusText.textContent = window.statusBar;
+          statusBar.appendChild(statusText);
+      
+          // Append all parts to the window
+          windowDiv.appendChild(titleBar);
+          windowDiv.appendChild(bodyDiv);
+          windowDiv.appendChild(statusBar);
+      
+          // Add the window to the body
+          document.body.appendChild(windowDiv);
+      
+          // Track active window and mark as not minimized
+          activeWindows[window.id] = { minimized: false };
+        }
+
+        // Create a text window with a title and content
+        function createTextWindow(id, title, content, left, top, width = 400, height = 300) {
+        const textWindowDiv = document.createElement('div');
+        textWindowDiv.classList.add('window');
+        textWindowDiv.id = id;
+        textWindowDiv.style.zIndex = 100; // Ensure text window is on top
+
+        // Title bar
+        const titleBar = document.createElement('div');
+        titleBar.classList.add('title-bar');
+
+        const titleText = document.createElement('div');
+        titleText.classList.add('title-bar-text');
+        titleText.textContent = title;
+        titleBar.appendChild(titleText);
+
+        const titleBarControls = document.createElement('div');
+        titleBarControls.classList.add('title-bar-controls');
+
+        const closeButton = document.createElement('button');
+        closeButton.setAttribute('aria-label', 'Close');
+        closeButton.addEventListener('click', () => textWindowDiv.remove()); // Close button event
+        titleBarControls.appendChild(closeButton);
+
+        titleBar.appendChild(titleBarControls);
+
+        // Window body
+        const bodyDiv = document.createElement('div');
+        bodyDiv.classList.add('window-body');
+        bodyDiv.style.padding = '10px';
+        bodyDiv.style.overflow = 'auto'; // Scroll if content overflows
+
+        const textContent = document.createElement('div');
+        textContent.innerHTML = content;
+        bodyDiv.appendChild(textContent);
+
+        // Append all parts to the text window
+        textWindowDiv.appendChild(titleBar);
+        textWindowDiv.appendChild(bodyDiv);
+
+        // Set initial position and size
+        textWindowDiv.style.left = `${left}px`;
+        textWindowDiv.style.top = `${top}px`;
+        textWindowDiv.style.width = `${width}px`;
+        textWindowDiv.style.height = `${height}px`;
+
+        // Add to the document
+        document.body.appendChild(textWindowDiv);
+      }
+
+      
+        // Trigger minimize shortly before deletion
+        function triggerMinimize(id) {
+          const minimizeButton = document.querySelector(`#${id} [aria-label="Minimize"]`);
+          if (minimizeButton) {
+            // minimizeButton.click();  // Simulate a click on the minimize button
+            minimizeButton.classList.add('active'); // Add 'active' class to simulate the clicked state
+            setTimeout(() => minimizeButton.classList.remove('active'), 100); // Remove the 'active' class after 100ms
+          }
+        }
+      
+        // Trigger maximize when scaling happens
+        function triggerMaximize(id) {
+          const maximizeButton = document.querySelector(`#${id} [aria-label="Maximize"]`);
+          if (maximizeButton) {
+            maximizeButton.classList.add('activated');  // Simulate the active button state
+            activeButtonTimers[id] = true;  // Track the timer to prevent multiple activations
+          }
+        }
+      
+        // Remove the active state from maximize button after 100 timesteps
+        function removeMaximizeState(id) {
+          const maximizeButton = document.querySelector(`#${id} [aria-label="Maximize"]`);
+          if (maximizeButton) {
+            maximizeButton.classList.remove('activated');
+            delete activeButtonTimers[id];  // Clear the timer flag
+          }
+        }
+      
+        // Minimize window action
+        function minimizeWindow(id) {
+          const windowDiv = document.getElementById(id);
+          if (windowDiv) {
+            windowDiv.style.display = 'none';  // Hide the window
+          }
+        }
+      
+        // Remove a window element
+        function removeWindow(id) {
+          const windowDiv = document.getElementById(id);
+          if (windowDiv) {
+            windowDiv.remove();
+          }
+          delete activeWindows[id]; // Remove from the active windows list
+        }
+      
+        function interpolate(start, end, progress) {
+          return start + (end - start) * progress;
+        }
+
+        function preloadImages(images, callback) {
+          let loadedCount = 0;
+          const totalImages = images.length;
+          const preloadedImages = [];
+
+          images.forEach((imagePath, index) => {
+            const img = new Image();
+            img.src = imagePath;
+            img.onload = () => {
+              loadedCount++;
+              preloadedImages[index] = img; // Store preloaded image
+              if (loadedCount === totalImages) {
+                callback(preloadedImages); // Proceed when all images are loaded
+              }
+            };
+            img.onerror = () => {
+              console.error(`Failed to load image: ${imagePath}`);
+              loadedCount++;
+              if (loadedCount === totalImages) {
+                callback(preloadedImages);
+              }
+            };
+          });
+        }
+
+
+      </script>
+            
+      
+
+</body>
+</html>

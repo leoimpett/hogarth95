@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Windows 95 Taskbar with Desktop Icons</title>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/98.css"
+/>
+<link rel="stylesheet" href="desktop.css">
+</head>
+<body>
+    
+<!-- Empty div for the whole background -->
+
+<div id="desktop-background-container">
+    <p>   </p>
+</div>
+<!-- Desktop -->
+<div id="desktop">
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/computer_explorer-3.png" alt="My Computer">
+        <div>My Computer</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="icons/png/recycle_bin_full-0.png" alt="Recycle Bin">
+        <div>Recycle Bin</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/network_televisons-3.png" alt="Network">
+        <div>Network</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/mailbox_world-2.png" alt="Mail">
+        <div>Mail</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/directory_closed-3.png" alt="My Documents">
+        <div>My Documents</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/msie1-0.png" alt="Internet Explorer">
+        <div>Internet Explorer</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/notepad-1.png" alt="Notepad">
+        <div>Notepad</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/paint_old-0.png" alt="Paint">
+        <div>Paint</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/joystick-3.png" alt="Games">
+        <div>Games</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/windows_movie-0.png" alt="Movies">
+        <div>Movies</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/computer_musical_keyboard-1.png" alt="Music">
+        <div>Music</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/entire_network_globe-0.png" alt="Network">
+        <div>Network</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/hard_disk_drive-3.png" alt="C">
+        <div>C:</div>
+    </div>
+    <div class="desktop-icon">
+        <img src="https://win98icons.alexmeub.com/icons/png/cd_drive-3.png" alt="D">
+        <div>D:</div>
+    </div>
+</div>
+
+<!-- Taskbar -->
+<div class="taskbar">
+    <!-- Start Button -->
+    <button class="start-button">
+        <img aria-label="windows icon" src="https://win98icons.alexmeub.com/icons/png/windows-0.png" /> <b>Start</b>
+    </button>
+    
+    <!-- Time Display -->
+    <div class="status-bar" style="margin-left:auto">
+        <div class="status-bar-field">
+            <span class="time">1697-1764</span>
+        </div>
+    </div>
+</div>
+
+</body>
+<script>
+    const desktopContainer = document.getElementById('desktop');
+    let iconCount = 0, fileNames = [], iconURLs = [];
+    const gridLimit = 16 * 9;
+
+    // Fetch file names and icon URLs
+    Promise.all([
+        fetch('files.txt').then(res => res.text()).then(data => fileNames = data.trim().split('\n')),
+        fetch('icons.txt').then(res => res.text()).then(data => iconURLs = data.trim().split('\n'))
+    ]).then(() => {
+        // Function to add a new desktop icon with a random delay
+        function addDesktopIcon() {
+            if (fileNames.length === 0) {
+                return; // Stop when there are no more files to add
+            }
+
+            if (iconURLs.length) {
+                // Choose a random file name without replacement
+                const randomIndex = Math.floor(Math.random() * fileNames.length);
+                let fullPath = fileNames.splice(randomIndex, 1)[0];
+                let baseName = fullPath.substring(fullPath.lastIndexOf('/') + 1);
+
+                // Limit the file name to a maximum of 20 characters
+                if (baseName.length > 20) {
+                    const extensionIndex = baseName.lastIndexOf('.');
+                    const extension = extensionIndex !== -1 ? baseName.substring(extensionIndex) : '';
+                    const truncatedName = baseName.substring(0, 20 - extension.length - 3);
+                    baseName = `${truncatedName}...${extension}`;
+                }
+
+                // Create the new desktop icon element
+                const newIcon = document.createElement('div');
+                newIcon.className = 'desktop-icon';
+                newIcon.innerHTML = `
+                    <img src="${iconURLs[Math.floor(Math.random() * iconURLs.length)]}" alt="Icon ${iconCount}">
+                    <div>${baseName}</div>
+                `;
+
+                // Place icon in grid if within grid limit, otherwise random position
+                if (iconCount < gridLimit) {
+                    desktopContainer.appendChild(newIcon);
+                } else {
+                    newIcon.style.position = 'absolute';
+                    newIcon.style.left = `${Math.random() * (window.innerWidth - 100)}px`; // Ensure the icon fits within the window width
+                    newIcon.style.top = `${Math.random() * (window.innerHeight - 150)}px`; // Ensure the icon fits within the window height
+                    document.body.appendChild(newIcon);
+                }
+
+                // Increment icon count
+                iconCount++;
+            }
+
+            // Schedule the next icon creation with a random delay
+            if (fileNames.length > 0) {
+                const randomDelay = Math.round(50 + Math.random() * 500); // Random delay  
+                setTimeout(addDesktopIcon, randomDelay);
+            }
+        }
+
+        // Start adding desktop icons
+        addDesktopIcon();
+    });
+</script>
+
+
+
+</html>
