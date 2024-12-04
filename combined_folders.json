@@ -10,15 +10,15 @@
       "keyframes": [
         {
           "time": 10000,
-          "left": 1292,
-          "top": 41,
+          "left": 1295,
+          "top": 188,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 12285,
-          "left": 1292,
-          "top": 41,
+          "time": 11432,
+          "left": 1295,
+          "top": 188,
           "opacity": 1,
           "scale": 1
         }
@@ -34,15 +34,15 @@
       "keyframes": [
         {
           "time": 0,
-          "left": 2462,
-          "top": 69,
+          "left": 2393,
+          "top": 46,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 2918,
-          "left": 2462,
-          "top": 69,
+          "time": 2898,
+          "left": 2393,
+          "top": 46,
           "opacity": 1,
           "scale": 1
         }
@@ -53,20 +53,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/Hogarth_Battle of Pictures_Feb 1745.jpg",
       "title": "Hogarth_Battle of Pictures_Feb 1745.jpg",
       "statusBar": "Battle of Pictures| Hogarth (1745), LWL. ",
-      "createTime": 7000,
-      "deleteTime": 67000,
+      "createTime": 3000,
+      "deleteTime": 63000,
       "keyframes": [
         {
-          "time": 7000,
-          "left": 3719,
-          "top": 140,
+          "time": 3000,
+          "left": 3609,
+          "top": 182,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 9945,
-          "left": 3719,
-          "top": 140,
+          "time": 4705,
+          "left": 3609,
+          "top": 182,
           "opacity": 1,
           "scale": 1
         }
@@ -77,20 +77,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/A midnight modern conversation_Reipenhausen__not before 1786.jpg",
       "title": "A midnight modern conversation_Reipenhausen__not before 1786.jpg",
       "statusBar": "A midnight modern conversation| Reipenhausen (1786), LWL. ",
-      "createTime": 3000,
-      "deleteTime": 63000,
+      "createTime": 4000,
+      "deleteTime": 64000,
       "keyframes": [
         {
-          "time": 3000,
-          "left": 4835,
-          "top": 68,
+          "time": 4000,
+          "left": 4850,
+          "top": 59,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 4376,
-          "left": 4835,
-          "top": 68,
+          "time": 6664,
+          "left": 4850,
+          "top": 59,
           "opacity": 1,
           "scale": 1
         }
@@ -101,20 +101,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/Battle of the Pictures_Unknown_Simpkin_1880.jpg",
       "title": "Battle of the Pictures_Unknown_Simpkin_1880.jpg",
       "statusBar": "Battle of Pictures| Unknown (1880), LWL. ",
-      "createTime": 2000,
-      "deleteTime": 62000,
+      "createTime": 1000,
+      "deleteTime": 61000,
       "keyframes": [
         {
-          "time": 2000,
-          "left": 6118,
-          "top": 194,
+          "time": 1000,
+          "left": 5967,
+          "top": 90,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 4283,
-          "left": 6118,
-          "top": 194,
+          "time": 3350,
+          "left": 5967,
+          "top": 90,
           "opacity": 1,
           "scale": 1
         }
@@ -125,20 +125,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/A midnight modern conversation State 3_Hogarth_Hogarth_March 1732.jpg",
       "title": "A midnight modern conversation State 3_Hogarth_Hogarth_March 1732.jpg",
       "statusBar": "A midnight modern conversation State 3| Hogarth (1732), LWL. ",
-      "createTime": 8000,
-      "deleteTime": 68000,
+      "createTime": 6000,
+      "deleteTime": 66000,
       "keyframes": [
         {
-          "time": 8000,
-          "left": 7318,
-          "top": 48,
+          "time": 6000,
+          "left": 7227,
+          "top": 135,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 9507,
-          "left": 7318,
-          "top": 48,
+          "time": 8879,
+          "left": 7227,
+          "top": 135,
           "opacity": 1,
           "scale": 1
         }
@@ -149,20 +149,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/Battle of the Pictures_Cook_Stockdale_1806.jpg",
       "title": "Battle of the Pictures_Cook_Stockdale_1806.jpg",
       "statusBar": "Battle of Pictures| Cook (1806), LWL. ",
-      "createTime": 6000,
-      "deleteTime": 66000,
+      "createTime": 5000,
+      "deleteTime": 65000,
       "keyframes": [
         {
-          "time": 6000,
-          "left": 8546,
-          "top": 17,
+          "time": 5000,
+          "left": 8554,
+          "top": 27,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 7930,
-          "left": 8546,
-          "top": 17,
+          "time": 7226,
+          "left": 8554,
+          "top": 27,
           "opacity": 1,
           "scale": 1
         }
@@ -173,20 +173,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/A rakes progress Plate 6_Hogarth_Hogarth_June 25 1735.jpg",
       "title": "A rakes progress Plate 6_Hogarth_Hogarth_June 25 1735.jpg",
       "statusBar": "A Rake's Progress Plate 6| Hogarth (1735), LWL. ",
-      "createTime": 4000,
-      "deleteTime": 64000,
+      "createTime": 7000,
+      "deleteTime": 67000,
       "keyframes": [
         {
-          "time": 4000,
-          "left": 9782,
-          "top": 6,
+          "time": 7000,
+          "left": 9736,
+          "top": 21,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 5539,
-          "left": 9782,
-          "top": 6,
+          "time": 9972,
+          "left": 9736,
+          "top": 21,
           "opacity": 1,
           "scale": 1
         }
@@ -197,20 +197,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/Battle of the Pictures_Barlow_Boydell_1791.jpg",
       "title": "Battle of the Pictures_Barlow_Boydell_1791.jpg",
       "statusBar": "Battle of Pictures| Barlow (1791), LWL. ",
-      "createTime": 1000,
-      "deleteTime": 61000,
+      "createTime": 8000,
+      "deleteTime": 68000,
       "keyframes": [
         {
-          "time": 1000,
-          "left": 10841,
-          "top": 181,
+          "time": 8000,
+          "left": 10826,
+          "top": 121,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 2870,
-          "left": 10841,
-          "top": 181,
+          "time": 9800,
+          "left": 10826,
+          "top": 121,
           "opacity": 1,
           "scale": 1
         }
@@ -221,20 +221,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Gulielmus Hogarth_Rockman_2022.jpg",
       "title": "Gulielmus Hogarth_Rockman_2022.jpg",
       "statusBar": "Gulielmus Hogarth| Zoom Rockman (2022), Contemporary Artist. Apologies to Hogarth by Zoom Rockman 2022 ",
-      "createTime": 5000,
-      "deleteTime": 65000,
+      "createTime": 9000,
+      "deleteTime": 69000,
       "keyframes": [
         {
-          "time": 5000,
-          "left": 12199,
-          "top": 53,
+          "time": 9000,
+          "left": 12182,
+          "top": 73,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 7960,
-          "left": 12199,
-          "top": 53,
+          "time": 11595,
+          "left": 12182,
+          "top": 73,
           "opacity": 1,
           "scale": 1
         }
@@ -245,20 +245,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/Richard Lee Golden Tobacco Roll_Ireland_1794.jpg",
       "title": "Richard Lee Golden Tobacco Roll_Ireland_1794.jpg",
       "statusBar": "Richard Lee at [the] Golden Tobacco Roll| Ireland (1794), LWL. ",
-      "createTime": 9000,
-      "deleteTime": 69000,
+      "createTime": 2000,
+      "deleteTime": 62000,
       "keyframes": [
         {
-          "time": 9000,
-          "left": 13344,
-          "top": 68,
+          "time": 2000,
+          "left": 13351,
+          "top": 87,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 11573,
-          "left": 13344,
-          "top": 68,
+          "time": 3633,
+          "left": 13351,
+          "top": 87,
           "opacity": 1,
           "scale": 1
         }
@@ -269,20 +269,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Romney_John Tallis_1853.jpg",
       "title": "Cruelty in Perfection_Romney_John Tallis_1853.jpg",
       "statusBar": "Cruelty in Perfection| Romney (1853), LWL. ",
-      "createTime": 41573,
-      "deleteTime": 101573,
+      "createTime": 32633,
+      "deleteTime": 92633,
       "keyframes": [
         {
-          "time": 41573,
-          "left": 1243,
-          "top": 90,
+          "time": 32633,
+          "left": 1310,
+          "top": 196,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 42878,
-          "left": 1243,
-          "top": 90,
+          "time": 35291,
+          "left": 1310,
+          "top": 196,
           "opacity": 1,
           "scale": 1
         }
@@ -293,20 +293,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "title": "Cruelty in Perfection_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "statusBar": "Cruelty in Perfection| Heath (1835), LWL. ",
-      "createTime": 37573,
-      "deleteTime": 97573,
+      "createTime": 24633,
+      "deleteTime": 84633,
       "keyframes": [
         {
-          "time": 37573,
-          "left": 2402,
-          "top": 89,
+          "time": 24633,
+          "left": 2360,
+          "top": 17,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 39722,
-          "left": 2402,
-          "top": 89,
+          "time": 27513,
+          "left": 2360,
+          "top": 17,
           "opacity": 1,
           "scale": 1
         }
@@ -317,20 +317,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Dent_Boydell_1791.jpg",
       "title": "Cruelty in Perfection_Dent_Boydell_1791.jpg",
       "statusBar": "Cruelty in Perfection| Dent (1791), LWL. ",
-      "createTime": 40573,
-      "deleteTime": 100573,
+      "createTime": 28633,
+      "deleteTime": 88633,
       "keyframes": [
         {
-          "time": 40573,
-          "left": 3693,
-          "top": 144,
+          "time": 28633,
+          "left": 3539,
+          "top": 19,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 43006,
-          "left": 3693,
-          "top": 144,
+          "time": 30835,
+          "left": 3539,
+          "top": 19,
           "opacity": 1,
           "scale": 1
         }
@@ -341,20 +341,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Dent_Boydell_1793.jpg",
       "title": "Cruelty in Perfection_Dent_Boydell_1793.jpg",
       "statusBar": "Cruelty in Perfection| Dent (1793), LWL. ",
-      "createTime": 38573,
-      "deleteTime": 98573,
+      "createTime": 30633,
+      "deleteTime": 90633,
       "keyframes": [
         {
-          "time": 38573,
-          "left": 4748,
-          "top": 188,
+          "time": 30633,
+          "left": 4893,
+          "top": 86,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 41133,
-          "left": 4748,
-          "top": 188,
+          "time": 33214,
+          "left": 4893,
+          "top": 86,
           "opacity": 1,
           "scale": 1
         }
@@ -365,20 +365,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Life history_Smythee.jpg",
       "title": "Life history_Smythee.jpg",
       "statusBar": "Image 5",
-      "createTime": 32573,
-      "deleteTime": 92573,
+      "createTime": 26633,
+      "deleteTime": 86633,
       "keyframes": [
         {
-          "time": 32573,
-          "left": 6031,
-          "top": 78,
+          "time": 26633,
+          "left": 6149,
+          "top": 54,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 35214,
-          "left": 6031,
-          "top": 78,
+          "time": 28318,
+          "left": 6149,
+          "top": 54,
           "opacity": 1,
           "scale": 1
         }
@@ -389,20 +389,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Cook_Longman_1807.jpg",
       "title": "Cruelty in Perfection_Cook_Longman_1807.jpg",
       "statusBar": "Cruelty in Perfection| Cook (1807), LWL. ",
-      "createTime": 35573,
-      "deleteTime": 95573,
+      "createTime": 29633,
+      "deleteTime": 89633,
       "keyframes": [
         {
-          "time": 35573,
-          "left": 7339,
-          "top": 97,
+          "time": 29633,
+          "left": 7206,
+          "top": 148,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 38008,
-          "left": 7339,
-          "top": 97,
+          "time": 31967,
+          "left": 7206,
+          "top": 148,
           "opacity": 1,
           "scale": 1
         }
@@ -413,20 +413,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "title": "Cruelty in Perfection_Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "statusBar": "Cruelty in Perfection| Unknown (1883), LWL. ",
-      "createTime": 31573,
-      "deleteTime": 91573,
+      "createTime": 33633,
+      "deleteTime": 93633,
       "keyframes": [
         {
-          "time": 31573,
-          "left": 8525,
-          "top": 163,
+          "time": 33633,
+          "left": 8391,
+          "top": 164,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 33896,
-          "left": 8525,
-          "top": 163,
+          "time": 36137,
+          "left": 8391,
+          "top": 164,
           "opacity": 1,
           "scale": 1
         }
@@ -437,20 +437,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Pyet_Scholey_1810.jpg",
       "title": "Cruelty in Perfection_Pyet_Scholey_1810.jpg",
       "statusBar": "Cruelty in Perfection| Pyet (1810), LWL. ",
-      "createTime": 36573,
-      "deleteTime": 96573,
+      "createTime": 27633,
+      "deleteTime": 87633,
       "keyframes": [
         {
-          "time": 36573,
-          "left": 9698,
-          "top": 153,
+          "time": 27633,
+          "left": 9772,
+          "top": 70,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 37820,
-          "left": 9698,
-          "top": 153,
+          "time": 29378,
+          "left": 9772,
+          "top": 70,
           "opacity": 1,
           "scale": 1
         }
@@ -461,20 +461,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Les Satyres ... Cruelty in Perfection.jpg",
       "title": "Les Satyres ... Cruelty in Perfection.jpg",
       "statusBar": "Image 9",
-      "createTime": 39573,
-      "deleteTime": 99573,
+      "createTime": 23633,
+      "deleteTime": 83633,
       "keyframes": [
         {
-          "time": 39573,
-          "left": 10936,
-          "top": 20,
+          "time": 23633,
+          "left": 10970,
+          "top": 84,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 40600,
-          "left": 10936,
-          "top": 20,
+          "time": 25260,
+          "left": 10970,
+          "top": 84,
           "opacity": 1,
           "scale": 1
         }
@@ -485,20 +485,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Romney_London Printing and Publishing_1860s.jpg",
       "title": "Cruelty in Perfection_Romney_London Printing and Publishing_1860s.jpg",
       "statusBar": "Cruelty in Perfection| Romney (1860's), LWL. ",
-      "createTime": 33573,
-      "deleteTime": 93573,
+      "createTime": 31633,
+      "deleteTime": 91633,
       "keyframes": [
         {
-          "time": 33573,
-          "left": 12145,
-          "top": 150,
+          "time": 31633,
+          "left": 12092,
+          "top": 166,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 35941,
-          "left": 12145,
-          "top": 150,
+          "time": 32689,
+          "left": 12092,
+          "top": 166,
           "opacity": 1,
           "scale": 1
         }
@@ -509,20 +509,20 @@
       "image": "./converted/exhibition_images/Stages of Cruelty/Cruelty in Perfection_Unknown_Simpkin_1880.jpg",
       "title": "Cruelty in Perfection_Unknown_Simpkin_1880.jpg",
       "statusBar": "Cruelty in Perfection| Unknown (1880), LWL. ",
-      "createTime": 34573,
-      "deleteTime": 94573,
+      "createTime": 25633,
+      "deleteTime": 85633,
       "keyframes": [
         {
-          "time": 34573,
-          "left": 13319,
-          "top": 147,
+          "time": 25633,
+          "left": 13277,
+          "top": 187,
           "opacity": 0,
           "scale": 1
         },
         {
-          "time": 37071,
-          "left": 13319,
-          "top": 147,
+          "time": 27416,
+          "left": 13277,
+          "top": 187,
           "opacity": 1,
           "scale": 1
         }
@@ -533,20 +533,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Gate of Calais_Cook_Stockdale_1806.jpg",
       "title": "Gate of Calais_Cook_Stockdale_1806.jpg",
       "statusBar": "Gate of Calais| Cook (1806), LWL. ",
-      "createTime": 59071,
-      "deleteTime": 119071,
+      "createTime": 50416,
+      "deleteTime": 110416,
       "keyframes": [
         {
-          "time": 59071,
-          "left": 1012,
-          "top": 85,
+          "time": 50416,
+          "left": 1118,
+          "top": 5,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 61534,
-          "left": 1012,
-          "top": 85,
+          "time": 52970,
+          "left": 1118,
+          "top": 5,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -557,20 +557,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Gate of Calais_Unknown_Simpkin_1880.jpg",
       "title": "Gate of Calais_Unknown_Simpkin_1880.jpg",
       "statusBar": "Gate of Calais| Unknown (1880), LWL. ",
-      "createTime": 66071,
-      "deleteTime": 126071,
+      "createTime": 53416,
+      "deleteTime": 113416,
       "keyframes": [
         {
-          "time": 66071,
-          "left": 2151,
-          "top": 20,
+          "time": 53416,
+          "left": 2160,
+          "top": 15,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 68734,
-          "left": 2151,
-          "top": 20,
+          "time": 55700,
+          "left": 2160,
+          "top": 15,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -581,20 +581,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Bold and enterprising lads_Hogarth_R.Shaw_not before 1749.jpg",
       "title": "Bold and enterprising lads_Hogarth_R.Shaw_not before 1749.jpg",
       "statusBar": "Image 3",
-      "createTime": 65071,
-      "deleteTime": 125071,
+      "createTime": 57416,
+      "deleteTime": 117416,
       "keyframes": [
         {
-          "time": 65071,
-          "left": 3231,
-          "top": 52,
+          "time": 57416,
+          "left": 3083,
+          "top": 139,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 66433,
-          "left": 3231,
-          "top": 52,
+          "time": 59933,
+          "left": 3083,
+          "top": 139,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -605,20 +605,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Gate of Calais_Unknown_Sayer_1768.jpg",
       "title": "Gate of Calais_Unknown_Sayer_1768.jpg",
       "statusBar": "Gate of Calais| Unknown (1768), LWL. ",
-      "createTime": 62071,
-      "deleteTime": 122071,
+      "createTime": 59416,
+      "deleteTime": 119416,
       "keyframes": [
         {
-          "time": 62071,
-          "left": 4213,
-          "top": 144,
+          "time": 59416,
+          "left": 4145,
+          "top": 32,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 63620,
-          "left": 4213,
-          "top": 144,
+          "time": 60632,
+          "left": 4145,
+          "top": 32,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -629,20 +629,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Bold and enterprising lads_Hogarth_not before 1749.jpg",
       "title": "Bold and enterprising lads_Hogarth_not before 1749.jpg",
       "statusBar": "Bold and enterprising lads| Hogarth (not before 1749), LWL. ",
-      "createTime": 63071,
-      "deleteTime": 123071,
+      "createTime": 49416,
+      "deleteTime": 109416,
       "keyframes": [
         {
-          "time": 63071,
-          "left": 5188,
-          "top": 177,
+          "time": 49416,
+          "left": 5349,
+          "top": 92,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 64750,
-          "left": 5188,
-          "top": 177,
+          "time": 51082,
+          "left": 5349,
+          "top": 92,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -653,20 +653,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Gate of Calais_Cook_Longman_1807.jpg",
       "title": "Gate of Calais_Cook_Longman_1807.jpg",
       "statusBar": "Gate of Calais| Cook (1807), LWL. ",
-      "createTime": 64071,
-      "deleteTime": 124071,
+      "createTime": 47416,
+      "deleteTime": 107416,
       "keyframes": [
         {
-          "time": 64071,
-          "left": 6232,
-          "top": 77,
+          "time": 47416,
+          "left": 6299,
+          "top": 159,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 66894,
-          "left": 6232,
-          "top": 77,
+          "time": 50306,
+          "left": 6299,
+          "top": 159,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -677,20 +677,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Gate of Calais_Clerk_Scholey_1810.jpg",
       "title": "Gate of Calais_Clerk_Scholey_1810.jpg",
       "statusBar": "Gate of Calais| Clerk (1810), LWL. ",
-      "createTime": 68071,
-      "deleteTime": 128071,
+      "createTime": 55416,
+      "deleteTime": 115416,
       "keyframes": [
         {
-          "time": 68071,
-          "left": 7356,
-          "top": 110,
+          "time": 55416,
+          "left": 7400,
+          "top": 118,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 69198,
-          "left": 7356,
-          "top": 110,
+          "time": 58177,
+          "left": 7400,
+          "top": 118,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -701,20 +701,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Gate of Calais_Radclyffe_London Printing and Publishing_1860s.jpg",
       "title": "Gate of Calais_Radclyffe_London Printing and Publishing_1860s.jpg",
       "statusBar": "Gate of Calais| Radclyffe (1860's), LWL. ",
-      "createTime": 67071,
-      "deleteTime": 127071,
+      "createTime": 52416,
+      "deleteTime": 112416,
       "keyframes": [
         {
-          "time": 67071,
-          "left": 8387,
-          "top": 39,
+          "time": 52416,
+          "left": 8323,
+          "top": 73,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 68101,
-          "left": 8387,
-          "top": 39,
+          "time": 55154,
+          "left": 8323,
+          "top": 73,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -725,20 +725,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Mr. Hogarth_Hogarth_Sayer_Set 29,1749.jpg",
       "title": "Mr. Hogarth_Hogarth_Sayer_Set 29,1749.jpg",
       "statusBar": "Image 9",
-      "createTime": 69071,
-      "deleteTime": 129071,
+      "createTime": 51416,
+      "deleteTime": 111416,
       "keyframes": [
         {
-          "time": 69071,
-          "left": 9447,
-          "top": 120,
+          "time": 51416,
+          "left": 9511,
+          "top": 88,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 71198,
-          "left": 9447,
-          "top": 120,
+          "time": 52975,
+          "left": 9511,
+          "top": 88,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -749,20 +749,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Roast beef_Hogarth_Hogarth_March 6 1749.jpg",
       "title": "Roast beef_Hogarth_Hogarth_March 6 1749.jpg",
       "statusBar": "Roast beef| Hogarth (1749), LWL. ",
-      "createTime": 58071,
-      "deleteTime": 118071,
+      "createTime": 54416,
+      "deleteTime": 114416,
       "keyframes": [
         {
-          "time": 58071,
-          "left": 10520,
-          "top": 112,
+          "time": 54416,
+          "left": 10403,
+          "top": 84,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 59742,
-          "left": 10520,
-          "top": 112,
+          "time": 57290,
+          "left": 10403,
+          "top": 84,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -773,20 +773,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/O the roast beef_Bell_Brighton_1996.jpg",
       "title": "O the roast beef_Bell_Brighton_1996.jpg",
       "statusBar": "O the roast beef| Steve Bell (), Contemporary Artist. ",
-      "createTime": 61071,
-      "deleteTime": 121071,
+      "createTime": 48416,
+      "deleteTime": 108416,
       "keyframes": [
         {
-          "time": 61071,
-          "left": 11490,
-          "top": 165,
+          "time": 48416,
+          "left": 11486,
+          "top": 99,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 63143,
-          "left": 11490,
-          "top": 165,
+          "time": 50961,
+          "left": 11486,
+          "top": 99,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -797,20 +797,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/Gate of Calais_June_Sayer_1768.jpg",
       "title": "Gate of Calais_June_Sayer_1768.jpg",
       "statusBar": "Gate of Calais| June (1768), LWL. ",
-      "createTime": 60071,
-      "deleteTime": 120071,
+      "createTime": 56416,
+      "deleteTime": 116416,
       "keyframes": [
         {
-          "time": 60071,
-          "left": 12533,
-          "top": 177,
+          "time": 56416,
+          "left": 12566,
+          "top": 96,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 61690,
-          "left": 12533,
-          "top": 177,
+          "time": 57779,
+          "left": 12566,
+          "top": 96,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -821,20 +821,20 @@
       "image": "./converted/exhibition_images/Gate of Calais/O the roast horse_Bell_Brighton_2013.jpg",
       "title": "O the roast horse_Bell_Brighton_2013.jpg",
       "statusBar": "O the roast horse| Steve Bell (), Contemporary Artist. ",
-      "createTime": 57071,
-      "deleteTime": 117071,
+      "createTime": 58416,
+      "deleteTime": 118416,
       "keyframes": [
         {
-          "time": 57071,
-          "left": 13688,
-          "top": 146,
+          "time": 58416,
+          "left": 13729,
+          "top": 35,
           "opacity": 0,
           "scale": 0.8666666666666667
         },
         {
-          "time": 58693,
-          "left": 13688,
-          "top": 146,
+          "time": 59815,
+          "left": 13729,
+          "top": 35,
           "opacity": 1,
           "scale": 0.8666666666666667
         }
@@ -845,20 +845,20 @@
       "image": "./converted/exhibition_images/Rake's Progress plate 3/Rake's Progress plate 3_Corbould & Dent_Boydell_1793.jpg",
       "title": "Rake's Progress plate 3_Corbould & Dent_Boydell_1793.jpg",
       "statusBar": "Rake's Progress plate 3| Corbould & Dent (1793), LWL. ",
-      "createTime": 83693,
-      "deleteTime": 143693,
+      "createTime": 79815,
+      "deleteTime": 139815,
       "keyframes": [
         {
-          "time": 83693,
-          "left": 981,
-          "top": 6,
+          "time": 79815,
+          "left": 898,
+          "top": 140,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 85960,
-          "left": 981,
-          "top": 6,
+          "time": 81719,
+          "left": 898,
+          "top": 140,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -869,20 +869,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Rake\u2019s Progress Bottoms Up (3)~hi.jpg",
       "title": "A Rake\u2019s Progress Bottoms Up (3)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 84693,
-      "deleteTime": 144693,
+      "createTime": 91815,
+      "deleteTime": 151815,
       "keyframes": [
         {
-          "time": 84693,
-          "left": 1770,
-          "top": 165,
+          "time": 91815,
+          "left": 1934,
+          "top": 16,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 86193,
-          "left": 1770,
-          "top": 165,
+          "time": 93985,
+          "left": 1934,
+          "top": 16,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -893,20 +893,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Rake\u2019s Progress Bottoms Up (2)~hi.jpg",
       "title": "A Rake\u2019s Progress Bottoms Up (2)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 88693,
-      "deleteTime": 148693,
+      "createTime": 80815,
+      "deleteTime": 140815,
       "keyframes": [
         {
-          "time": 88693,
-          "left": 2753,
-          "top": 71,
+          "time": 80815,
+          "left": 2801,
+          "top": 183,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 90141,
-          "left": 2753,
-          "top": 71,
+          "time": 82122,
+          "left": 2801,
+          "top": 183,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -917,20 +917,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Rake's Progress Hole in her Stocking (1)~hi.jpg",
       "title": "A Rake's Progress Hole in her Stocking (1)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 86693,
-      "deleteTime": 146693,
+      "createTime": 93815,
+      "deleteTime": 153815,
       "keyframes": [
         {
-          "time": 86693,
-          "left": 3794,
-          "top": 97,
+          "time": 93815,
+          "left": 3656,
+          "top": 118,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 89543,
-          "left": 3794,
-          "top": 97,
+          "time": 96196,
+          "left": 3656,
+          "top": 118,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -941,20 +941,20 @@
       "image": "./converted/exhibition_images/Rake's Progress plate 3/Rake's Progress plate 3_Worthington_Jones & Co._1833.jpg",
       "title": "Rake's Progress plate 3_Worthington_Jones & Co._1833.jpg",
       "statusBar": "Image 5",
-      "createTime": 78693,
-      "deleteTime": 138693,
+      "createTime": 83815,
+      "deleteTime": 143815,
       "keyframes": [
         {
-          "time": 78693,
-          "left": 4647,
-          "top": 106,
+          "time": 83815,
+          "left": 4722,
+          "top": 195,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 80550,
-          "left": 4647,
-          "top": 106,
+          "time": 86728,
+          "left": 4722,
+          "top": 195,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -965,20 +965,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Rake's Progress Hole in her Stocking (3)~hi.jpg",
       "title": "A Rake's Progress Hole in her Stocking (3)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 80693,
-      "deleteTime": 140693,
+      "createTime": 92815,
+      "deleteTime": 152815,
       "keyframes": [
         {
-          "time": 80693,
-          "left": 5604,
-          "top": 110,
+          "time": 92815,
+          "left": 5562,
+          "top": 63,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 82525,
-          "left": 5604,
-          "top": 110,
+          "time": 95453,
+          "left": 5562,
+          "top": 63,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -989,20 +989,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Rake's Progress Hole in her Stocking (2)~hi.jpg",
       "title": "A Rake's Progress Hole in her Stocking (2)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 85693,
-      "deleteTime": 145693,
+      "createTime": 90815,
+      "deleteTime": 150815,
       "keyframes": [
         {
-          "time": 85693,
-          "left": 6407,
-          "top": 7,
+          "time": 90815,
+          "left": 6534,
+          "top": 98,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 86996,
-          "left": 6407,
-          "top": 7,
+          "time": 91989,
+          "left": 6534,
+          "top": 98,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1013,20 +1013,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Rake\u2019s Progress Bottoms Up (1)~hi.jpg",
       "title": "A Rake\u2019s Progress Bottoms Up (1)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 89693,
-      "deleteTime": 149693,
+      "createTime": 88815,
+      "deleteTime": 148815,
       "keyframes": [
         {
-          "time": 89693,
-          "left": 7401,
-          "top": 131,
+          "time": 88815,
+          "left": 7319,
+          "top": 155,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 92306,
-          "left": 7401,
-          "top": 131,
+          "time": 91615,
+          "left": 7319,
+          "top": 155,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1037,20 +1037,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Rake\u2019s Progress Bottoms Up (4)~hi.jpg",
       "title": "A Rake\u2019s Progress Bottoms Up (4)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 92693,
-      "deleteTime": 152693,
+      "createTime": 86815,
+      "deleteTime": 146815,
       "keyframes": [
         {
-          "time": 92693,
-          "left": 8349,
-          "top": 30,
+          "time": 86815,
+          "left": 8242,
+          "top": 50,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 94566,
-          "left": 8349,
-          "top": 30,
+          "time": 88894,
+          "left": 8242,
+          "top": 50,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1061,20 +1061,20 @@
       "image": "./converted/exhibition_images/Rake's Progress plate 3/Rake's Progress plate 3_Cook_Longman_1809.jpg",
       "title": "Rake's Progress plate 3_Cook_Longman_1809.jpg",
       "statusBar": "Rake's Progress plate 3| Cook (1809), LWL. ",
-      "createTime": 90693,
-      "deleteTime": 150693,
+      "createTime": 81815,
+      "deleteTime": 141815,
       "keyframes": [
         {
-          "time": 90693,
-          "left": 9235,
-          "top": 173,
+          "time": 81815,
+          "left": 9339,
+          "top": 46,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 91878,
-          "left": 9235,
-          "top": 173,
+          "time": 84063,
+          "left": 9339,
+          "top": 46,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1085,20 +1085,20 @@
       "image": "./converted/exhibition_images/Rake's Progress plate 3/Rake's Progress plate 3_Unknown_Sayer_1768.jpg",
       "title": "Rake's Progress plate 3_Unknown_Sayer_1768.jpg",
       "statusBar": "Rake's Progress plate 3| Unknown (1768), LWL. ",
-      "createTime": 81693,
-      "deleteTime": 141693,
+      "createTime": 89815,
+      "deleteTime": 149815,
       "keyframes": [
         {
-          "time": 81693,
-          "left": 10133,
-          "top": 182,
+          "time": 89815,
+          "left": 10253,
+          "top": 97,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 82840,
-          "left": 10133,
-          "top": 182,
+          "time": 90912,
+          "left": 10253,
+          "top": 97,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1109,20 +1109,20 @@
       "image": "./converted/exhibition_images/Rake's Progress plate 3/Rake's Progress plate 3_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "title": "Rake's Progress plate 3_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "statusBar": "Rake's Progress plate 3| Heath (1835), LWL . ",
-      "createTime": 91693,
-      "deleteTime": 151693,
+      "createTime": 85815,
+      "deleteTime": 145815,
       "keyframes": [
         {
-          "time": 91693,
-          "left": 11143,
-          "top": 129,
+          "time": 85815,
+          "left": 11076,
+          "top": 62,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 92892,
-          "left": 11143,
-          "top": 129,
+          "time": 87692,
+          "left": 11076,
+          "top": 62,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1133,20 +1133,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Rake's Progress Hole in her Stocking (4)~hi.jpg",
       "title": "A Rake's Progress Hole in her Stocking (4)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 82693,
-      "deleteTime": 142693,
+      "createTime": 84815,
+      "deleteTime": 144815,
       "keyframes": [
         {
-          "time": 82693,
-          "left": 12096,
-          "top": 71,
+          "time": 84815,
+          "left": 11956,
+          "top": 115,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 84539,
-          "left": 12096,
-          "top": 71,
+          "time": 86753,
+          "left": 11956,
+          "top": 115,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1157,20 +1157,20 @@
       "image": "./converted/exhibition_images/Rake's Progress plate 3/Rake's Progress plate 3_Cook_Stockdale_1806.jpg",
       "title": "Rake's Progress plate 3_Cook_Stockdale_1806.jpg",
       "statusBar": "Rake's Progress plate 3| Cook (1806), LWL. ",
-      "createTime": 87693,
-      "deleteTime": 147693,
+      "createTime": 82815,
+      "deleteTime": 142815,
       "keyframes": [
         {
-          "time": 87693,
-          "left": 13060,
-          "top": 39,
+          "time": 82815,
+          "left": 13021,
+          "top": 184,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 90182,
-          "left": 13060,
-          "top": 39,
+          "time": 84536,
+          "left": 13021,
+          "top": 184,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1181,20 +1181,20 @@
       "image": "./converted/exhibition_images/Rake's Progress plate 3/Rake's Progress plate 3_Worthington_London Printing and Publishing_1860s.jpg",
       "title": "Rake's Progress plate 3_Worthington_London Printing and Publishing_1860s.jpg",
       "statusBar": "Rake's Progress plate 3| Worthington (1860's), LWL. ",
-      "createTime": 79693,
-      "deleteTime": 139693,
+      "createTime": 87815,
+      "deleteTime": 147815,
       "keyframes": [
         {
-          "time": 79693,
-          "left": 13915,
-          "top": 62,
+          "time": 87815,
+          "left": 13955,
+          "top": 55,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 80910,
-          "left": 13915,
-          "top": 62,
+          "time": 90014,
+          "left": 13955,
+          "top": 55,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -1205,20 +1205,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Copper Plate_Smith_Gulielmus Hogarth.jpg",
       "title": "Copper Plate_Smith_Gulielmus Hogarth.jpg",
       "statusBar": "William Hogarth| Smith (1795), LWL. ",
-      "createTime": 111910,
-      "deleteTime": 171910,
+      "createTime": 122014,
+      "deleteTime": 182014,
       "keyframes": [
         {
-          "time": 111910,
-          "left": 1007,
-          "top": 195,
+          "time": 122014,
+          "left": 1056,
+          "top": 12,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 114116,
-          "left": 1007,
-          "top": 195,
+          "time": 123393,
+          "left": 1056,
+          "top": 12,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1229,20 +1229,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Gulielmus Hogarth_Cook_Longman_1809.jpg",
       "title": "Gulielmus Hogarth_Cook_Longman_1809.jpg",
       "statusBar": "Gulielmus Hogarth| Cook (1809), LWL. ",
-      "createTime": 112910,
-      "deleteTime": 172910,
+      "createTime": 113014,
+      "deleteTime": 173014,
       "keyframes": [
         {
-          "time": 112910,
-          "left": 1912,
-          "top": 90,
+          "time": 113014,
+          "left": 2053,
+          "top": 6,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 115292,
-          "left": 1912,
-          "top": 90,
+          "time": 114953,
+          "left": 2053,
+          "top": 6,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1253,20 +1253,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/C Spooner after Hogarth_Gulielmus Hogarth.jpg",
       "title": "C Spooner after Hogarth_Gulielmus Hogarth.jpg",
       "statusBar": "Image 3",
-      "createTime": 110910,
-      "deleteTime": 170910,
+      "createTime": 110014,
+      "deleteTime": 170014,
       "keyframes": [
         {
-          "time": 110910,
-          "left": 2872,
-          "top": 60,
+          "time": 110014,
+          "left": 2874,
+          "top": 37,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 112999,
-          "left": 2872,
-          "top": 60,
+          "time": 111774,
+          "left": 2874,
+          "top": 37,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1277,20 +1277,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Alamy_ Umm al_Quwain stamp of Hogarth.jpg",
       "title": "Alamy_ Umm al_Quwain stamp of Hogarth.jpg",
       "statusBar": "|  (), Alamy. Sergey Nezhinkiy / Alamy Stock Photo, 15 September 2012",
-      "createTime": 106910,
-      "deleteTime": 166910,
+      "createTime": 120014,
+      "deleteTime": 180014,
       "keyframes": [
         {
-          "time": 106910,
-          "left": 3901,
-          "top": 162,
+          "time": 120014,
+          "left": 3967,
+          "top": 9,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 109534,
-          "left": 3901,
-          "top": 162,
+          "time": 122169,
+          "left": 3967,
+          "top": 9,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1301,20 +1301,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/de LaFond_William Hogarth.jpg",
       "title": "de LaFond_William Hogarth.jpg",
       "statusBar": "|  (), n/a. ",
-      "createTime": 101910,
-      "deleteTime": 161910,
+      "createTime": 123014,
+      "deleteTime": 183014,
       "keyframes": [
         {
-          "time": 101910,
-          "left": 4979,
-          "top": 94,
+          "time": 123014,
+          "left": 4846,
+          "top": 134,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 103709,
-          "left": 4979,
-          "top": 94,
+          "time": 124118,
+          "left": 4846,
+          "top": 134,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1325,20 +1325,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Gulielmus Hogarth_Unknown_Jones & Co._1833_full cover.jpg",
       "title": "Gulielmus Hogarth_Unknown_Jones & Co._1833_full cover.jpg",
       "statusBar": "Image 6",
-      "createTime": 104910,
-      "deleteTime": 164910,
+      "createTime": 114014,
+      "deleteTime": 174014,
       "keyframes": [
         {
-          "time": 104910,
-          "left": 5915,
-          "top": 67,
+          "time": 114014,
+          "left": 5849,
+          "top": 27,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 107493,
-          "left": 5915,
-          "top": 67,
+          "time": 115774,
+          "left": 5849,
+          "top": 27,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1349,20 +1349,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Smith after Hogarth_Gulielmus Hogarth.jpg",
       "title": "Smith after Hogarth_Gulielmus Hogarth.jpg",
       "statusBar": "Image 7",
-      "createTime": 109910,
-      "deleteTime": 169910,
+      "createTime": 115014,
+      "deleteTime": 175014,
       "keyframes": [
         {
-          "time": 109910,
-          "left": 6955,
-          "top": 180,
+          "time": 115014,
+          "left": 6947,
+          "top": 31,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 112851,
-          "left": 6955,
-          "top": 180,
+          "time": 117898,
+          "left": 6947,
+          "top": 31,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1373,20 +1373,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Tate_The Painter and his Pug.jpg",
       "title": "Tate_The Painter and his Pug.jpg",
       "statusBar": "Image 8",
-      "createTime": 105910,
-      "deleteTime": 165910,
+      "createTime": 117014,
+      "deleteTime": 177014,
       "keyframes": [
         {
-          "time": 105910,
-          "left": 7961,
-          "top": 109,
+          "time": 117014,
+          "left": 7782,
+          "top": 101,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 108242,
-          "left": 7961,
-          "top": 109,
+          "time": 118330,
+          "left": 7782,
+          "top": 101,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1397,20 +1397,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Martin and the pug_Hogarth CM Oct 2014_hi res.jpg",
       "title": "Martin and the pug_Hogarth CM Oct 2014_hi res.jpg",
       "statusBar": "Martin and the pug|  (2014), . Photo\u00a0Credit Kasia Kowalski",
-      "createTime": 107910,
-      "deleteTime": 167910,
+      "createTime": 112014,
+      "deleteTime": 172014,
       "keyframes": [
         {
-          "time": 107910,
-          "left": 8904,
-          "top": 111,
+          "time": 112014,
+          "left": 8827,
+          "top": 12,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 110000,
-          "left": 8904,
-          "top": 111,
+          "time": 114486,
+          "left": 8827,
+          "top": 12,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1421,20 +1421,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Gulielmus Hogarth+Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "title": "Gulielmus Hogarth+Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "statusBar": "Gulielmus Hogarth| Unknown (1883), LWL. ",
-      "createTime": 113910,
-      "deleteTime": 173910,
+      "createTime": 119014,
+      "deleteTime": 179014,
       "keyframes": [
         {
-          "time": 113910,
-          "left": 9908,
-          "top": 81,
+          "time": 119014,
+          "left": 9807,
+          "top": 177,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 114956,
-          "left": 9908,
-          "top": 81,
+          "time": 120373,
+          "left": 9807,
+          "top": 177,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1445,20 +1445,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Gulielmus Hogarth_Unknown_Simpkin_1880.jpg",
       "title": "Gulielmus Hogarth_Unknown_Simpkin_1880.jpg",
       "statusBar": "Gulielmus Hogarth| Unknown (1880), LWL. ",
-      "createTime": 108910,
-      "deleteTime": 168910,
+      "createTime": 111014,
+      "deleteTime": 171014,
       "keyframes": [
         {
-          "time": 108910,
-          "left": 10860,
-          "top": 132,
+          "time": 111014,
+          "left": 10906,
+          "top": 11,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 110646,
-          "left": 10860,
-          "top": 132,
+          "time": 112220,
+          "left": 10906,
+          "top": 11,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1469,20 +1469,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Gulielmus Hogarth_Unknown_Jones & Co._1833.jpg",
       "title": "Gulielmus Hogarth_Unknown_Jones & Co._1833.jpg",
       "statusBar": "Image 12",
-      "createTime": 100910,
-      "deleteTime": 160910,
+      "createTime": 118014,
+      "deleteTime": 178014,
       "keyframes": [
         {
-          "time": 100910,
-          "left": 11834,
-          "top": 200,
+          "time": 118014,
+          "left": 11799,
+          "top": 15,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 103799,
-          "left": 11834,
-          "top": 200,
+          "time": 120653,
+          "left": 11799,
+          "top": 15,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1493,20 +1493,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Gulielmus Hogarth_Clerk_Scholey_1810.jpg",
       "title": "Gulielmus Hogarth_Clerk_Scholey_1810.jpg",
       "statusBar": "Gulielmus Hogarth| Clerk (1810), LWL. ",
-      "createTime": 102910,
-      "deleteTime": 162910,
+      "createTime": 116014,
+      "deleteTime": 176014,
       "keyframes": [
         {
-          "time": 102910,
-          "left": 12841,
-          "top": 159,
+          "time": 116014,
+          "left": 12804,
+          "top": 123,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 105346,
-          "left": 12841,
-          "top": 159,
+          "time": 118872,
+          "left": 12804,
+          "top": 123,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1517,20 +1517,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Pug/Gulielmus Hogarth_Rockman_2022.jpg",
       "title": "Gulielmus Hogarth_Rockman_2022.jpg",
       "statusBar": "Gulielmus Hogarth| Zoom Rockman (2022), Contemporary Artist. Apologies to Hogarth by Zoom Rockman 2022 ",
-      "createTime": 103910,
-      "deleteTime": 163910,
+      "createTime": 121014,
+      "deleteTime": 181014,
       "keyframes": [
         {
-          "time": 103910,
-          "left": 13729,
-          "top": 80,
+          "time": 121014,
+          "left": 13872,
+          "top": 11,
           "opacity": 0,
           "scale": 0.8125
         },
         {
-          "time": 105432,
-          "left": 13729,
-          "top": 80,
+          "time": 122326,
+          "left": 13872,
+          "top": 11,
           "opacity": 1,
           "scale": 0.8125
         }
@@ -1541,20 +1541,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_44.jpg",
       "title": "aa_44.jpg",
       "statusBar": "Image 1",
-      "createTime": 133232,
-      "deleteTime": 193232,
+      "createTime": 154626,
+      "deleteTime": 214626,
       "keyframes": [
         {
-          "time": 133232,
-          "left": 428,
-          "top": 399,
+          "time": 154626,
+          "left": 320,
+          "top": 180,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 134352,
-          "left": 428,
-          "top": 399,
+          "time": 155995,
+          "left": 320,
+          "top": 180,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1565,20 +1565,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_45.jpg",
       "title": "aa_45.jpg",
       "statusBar": "Image 2",
-      "createTime": 132632,
-      "deleteTime": 192632,
+      "createTime": 151326,
+      "deleteTime": 211326,
       "keyframes": [
         {
-          "time": 132632,
-          "left": 577,
-          "top": 558,
+          "time": 151326,
+          "left": 702,
+          "top": 581,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 134732,
-          "left": 577,
-          "top": 558,
+          "time": 152784,
+          "left": 702,
+          "top": 581,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1589,20 +1589,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_42.jpg",
       "title": "aa_42.jpg",
       "statusBar": "Image 3",
-      "createTime": 137132,
-      "deleteTime": 197132,
+      "createTime": 151026,
+      "deleteTime": 211026,
       "keyframes": [
         {
-          "time": 137132,
-          "left": 1014,
-          "top": 45,
+          "time": 151026,
+          "left": 1034,
+          "top": 220,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 138268,
-          "left": 1014,
-          "top": 45,
+          "time": 153387,
+          "left": 1034,
+          "top": 220,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1613,20 +1613,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_43.jpg",
       "title": "aa_43.jpg",
       "statusBar": "Image 4",
-      "createTime": 127232,
-      "deleteTime": 187232,
+      "createTime": 151926,
+      "deleteTime": 211926,
       "keyframes": [
         {
-          "time": 127232,
-          "left": 1330,
-          "top": 60,
+          "time": 151926,
+          "left": 1259,
+          "top": 145,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 128881,
-          "left": 1330,
-          "top": 60,
+          "time": 154723,
+          "left": 1259,
+          "top": 145,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1637,20 +1637,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/Snapshots from RTI Viewer/normals map.jpg",
       "title": "normals map.jpg",
       "statusBar": "Image 5",
-      "createTime": 128732,
-      "deleteTime": 188732,
+      "createTime": 154926,
+      "deleteTime": 214926,
       "keyframes": [
         {
-          "time": 128732,
-          "left": 1596,
-          "top": 181,
+          "time": 154926,
+          "left": 1559,
+          "top": 75,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 130748,
-          "left": 1596,
-          "top": 181,
+          "time": 157430,
+          "left": 1559,
+          "top": 75,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1661,20 +1661,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_41.jpg",
       "title": "aa_41.jpg",
       "statusBar": "Image 6",
-      "createTime": 133532,
-      "deleteTime": 193532,
+      "createTime": 154026,
+      "deleteTime": 214026,
       "keyframes": [
         {
-          "time": 133532,
-          "left": 1957,
-          "top": 584,
+          "time": 154026,
+          "left": 1890,
+          "top": 328,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 135005,
-          "left": 1957,
-          "top": 584,
+          "time": 156008,
+          "left": 1890,
+          "top": 328,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1685,20 +1685,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_40.jpg",
       "title": "aa_40.jpg",
       "statusBar": "Image 7",
-      "createTime": 129032,
-      "deleteTime": 189032,
+      "createTime": 155226,
+      "deleteTime": 215226,
       "keyframes": [
         {
-          "time": 129032,
-          "left": 2303,
-          "top": 144,
+          "time": 155226,
+          "left": 2237,
+          "top": 243,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 131990,
-          "left": 2303,
-          "top": 144,
+          "time": 157441,
+          "left": 2237,
+          "top": 243,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1709,20 +1709,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_33.jpg",
       "title": "aa_33.jpg",
       "statusBar": "Image 8",
-      "createTime": 127532,
-      "deleteTime": 187532,
+      "createTime": 148926,
+      "deleteTime": 208926,
       "keyframes": [
         {
-          "time": 127532,
-          "left": 2574,
-          "top": 396,
+          "time": 148926,
+          "left": 2604,
+          "top": 483,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 130411,
-          "left": 2574,
-          "top": 396,
+          "time": 150775,
+          "left": 2604,
+          "top": 483,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1733,20 +1733,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_27.jpg",
       "title": "aa_27.jpg",
       "statusBar": "Image 9",
-      "createTime": 128132,
-      "deleteTime": 188132,
+      "createTime": 150126,
+      "deleteTime": 210126,
       "keyframes": [
         {
-          "time": 128132,
-          "left": 2871,
-          "top": 4,
+          "time": 150126,
+          "left": 3044,
+          "top": 556,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 129500,
-          "left": 2871,
-          "top": 4,
+          "time": 152059,
+          "left": 3044,
+          "top": 556,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1757,20 +1757,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_26.jpg",
       "title": "aa_26.jpg",
       "statusBar": "Image 10",
-      "createTime": 138032,
-      "deleteTime": 198032,
+      "createTime": 149526,
+      "deleteTime": 209526,
       "keyframes": [
         {
-          "time": 138032,
-          "left": 3348,
-          "top": 482,
+          "time": 149526,
+          "left": 3367,
+          "top": 90,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 140501,
-          "left": 3348,
-          "top": 482,
+          "time": 151581,
+          "left": 3367,
+          "top": 90,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1781,20 +1781,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_32.jpg",
       "title": "aa_32.jpg",
       "statusBar": "Image 11",
-      "createTime": 138332,
-      "deleteTime": 198332,
+      "createTime": 143226,
+      "deleteTime": 203226,
       "keyframes": [
         {
-          "time": 138332,
-          "left": 3583,
-          "top": 452,
+          "time": 143226,
+          "left": 3508,
+          "top": 222,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 141311,
-          "left": 3583,
-          "top": 452,
+          "time": 144766,
+          "left": 3508,
+          "top": 222,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1805,20 +1805,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_24.jpg",
       "title": "aa_24.jpg",
       "statusBar": "Image 12",
-      "createTime": 126632,
-      "deleteTime": 186632,
+      "createTime": 153126,
+      "deleteTime": 213126,
       "keyframes": [
         {
-          "time": 126632,
-          "left": 3843,
-          "top": 535,
+          "time": 153126,
+          "left": 3950,
+          "top": 368,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 129318,
-          "left": 3843,
-          "top": 535,
+          "time": 155823,
+          "left": 3950,
+          "top": 368,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1829,20 +1829,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_30.jpg",
       "title": "aa_30.jpg",
       "statusBar": "Image 13",
-      "createTime": 138632,
-      "deleteTime": 198632,
+      "createTime": 148326,
+      "deleteTime": 208326,
       "keyframes": [
         {
-          "time": 138632,
-          "left": 4298,
-          "top": 237,
+          "time": 148326,
+          "left": 4195,
+          "top": 423,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 140068,
-          "left": 4298,
-          "top": 237,
+          "time": 150229,
+          "left": 4195,
+          "top": 423,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1853,20 +1853,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_18.jpg",
       "title": "aa_18.jpg",
       "statusBar": "Image 14",
-      "createTime": 133832,
-      "deleteTime": 193832,
+      "createTime": 146526,
+      "deleteTime": 206526,
       "keyframes": [
         {
-          "time": 133832,
-          "left": 4495,
-          "top": 164,
+          "time": 146526,
+          "left": 4591,
+          "top": 583,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 136053,
-          "left": 4495,
-          "top": 164,
+          "time": 148034,
+          "left": 4591,
+          "top": 583,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1877,20 +1877,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_19.jpg",
       "title": "aa_19.jpg",
       "statusBar": "Image 15",
-      "createTime": 126932,
-      "deleteTime": 186932,
+      "createTime": 142326,
+      "deleteTime": 202326,
       "keyframes": [
         {
-          "time": 126932,
-          "left": 4925,
-          "top": 298,
+          "time": 142326,
+          "left": 4950,
+          "top": 429,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 129797,
-          "left": 4925,
-          "top": 298,
+          "time": 144811,
+          "left": 4950,
+          "top": 429,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1901,20 +1901,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_31.jpg",
       "title": "aa_31.jpg",
       "statusBar": "Image 16",
-      "createTime": 135932,
-      "deleteTime": 195932,
+      "createTime": 145026,
+      "deleteTime": 205026,
       "keyframes": [
         {
-          "time": 135932,
-          "left": 5172,
-          "top": 219,
+          "time": 145026,
+          "left": 5166,
+          "top": 490,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 137178,
-          "left": 5172,
-          "top": 219,
+          "time": 147490,
+          "left": 5166,
+          "top": 490,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1922,23 +1922,23 @@
     },
     {
       "id": "aa_25.jpg-16",
-      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/cropped-files/aa_25.jpg",
+      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_25.jpg",
       "title": "aa_25.jpg",
       "statusBar": "Image 17",
-      "createTime": 131732,
-      "deleteTime": 191732,
+      "createTime": 155826,
+      "deleteTime": 215826,
       "keyframes": [
         {
-          "time": 131732,
-          "left": 5592,
-          "top": 32,
+          "time": 155826,
+          "left": 5635,
+          "top": 242,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 134165,
-          "left": 5592,
-          "top": 32,
+          "time": 158021,
+          "left": 5635,
+          "top": 242,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1949,20 +1949,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_09.jpg",
       "title": "aa_09.jpg",
       "statusBar": "Image 18",
-      "createTime": 130832,
-      "deleteTime": 190832,
+      "createTime": 149826,
+      "deleteTime": 209826,
       "keyframes": [
         {
-          "time": 130832,
-          "left": 5957,
-          "top": 412,
+          "time": 149826,
+          "left": 5881,
+          "top": 129,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 132819,
-          "left": 5957,
-          "top": 412,
+          "time": 151847,
+          "left": 5881,
+          "top": 129,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1973,20 +1973,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_21.jpg",
       "title": "aa_21.jpg",
       "statusBar": "Image 19",
-      "createTime": 132032,
-      "deleteTime": 192032,
+      "createTime": 154326,
+      "deleteTime": 214326,
       "keyframes": [
         {
-          "time": 132032,
-          "left": 6133,
-          "top": 579,
+          "time": 154326,
+          "left": 6263,
+          "top": 600,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 133252,
-          "left": 6133,
-          "top": 579,
+          "time": 155461,
+          "left": 6263,
+          "top": 600,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -1997,20 +1997,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_35.jpg",
       "title": "aa_35.jpg",
       "statusBar": "Image 20",
-      "createTime": 135032,
-      "deleteTime": 195032,
+      "createTime": 146226,
+      "deleteTime": 206226,
       "keyframes": [
         {
-          "time": 135032,
-          "left": 6660,
-          "top": 145,
+          "time": 146226,
+          "left": 6584,
+          "top": 358,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 137059,
-          "left": 6660,
-          "top": 145,
+          "time": 148233,
+          "left": 6584,
+          "top": 358,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2021,20 +2021,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_34.jpg",
       "title": "aa_34.jpg",
       "statusBar": "Image 21",
-      "createTime": 137732,
-      "deleteTime": 197732,
+      "createTime": 152826,
+      "deleteTime": 212826,
       "keyframes": [
         {
-          "time": 137732,
-          "left": 6924,
-          "top": 128,
+          "time": 152826,
+          "left": 6818,
+          "top": 578,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 139917,
-          "left": 6924,
-          "top": 128,
+          "time": 153841,
+          "left": 6818,
+          "top": 578,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2045,20 +2045,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_20.jpg",
       "title": "aa_20.jpg",
       "statusBar": "Image 22",
-      "createTime": 128432,
-      "deleteTime": 188432,
+      "createTime": 142926,
+      "deleteTime": 202926,
       "keyframes": [
         {
-          "time": 128432,
-          "left": 7238,
-          "top": 2,
+          "time": 142926,
+          "left": 7179,
+          "top": 69,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 129460,
-          "left": 7238,
-          "top": 2,
+          "time": 144302,
+          "left": 7179,
+          "top": 69,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2069,20 +2069,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_08.jpg",
       "title": "aa_08.jpg",
       "statusBar": "Image 23",
-      "createTime": 137432,
-      "deleteTime": 197432,
+      "createTime": 150726,
+      "deleteTime": 210726,
       "keyframes": [
         {
-          "time": 137432,
-          "left": 7552,
-          "top": 9,
+          "time": 150726,
+          "left": 7588,
+          "top": 265,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 139850,
-          "left": 7552,
-          "top": 9,
+          "time": 152044,
+          "left": 7588,
+          "top": 265,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2093,20 +2093,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_36.jpg",
       "title": "aa_36.jpg",
       "statusBar": "Image 24",
-      "createTime": 134432,
-      "deleteTime": 194432,
+      "createTime": 147726,
+      "deleteTime": 207726,
       "keyframes": [
         {
-          "time": 134432,
-          "left": 7907,
-          "top": 366,
+          "time": 147726,
+          "left": 7916,
+          "top": 158,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 136644,
-          "left": 7907,
-          "top": 366,
+          "time": 149573,
+          "left": 7916,
+          "top": 158,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2114,23 +2114,23 @@
     },
     {
       "id": "aa_22.jpg-24",
-      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/cropped-files/aa_22.jpg",
+      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_22.jpg",
       "title": "aa_22.jpg",
       "statusBar": "Image 25",
-      "createTime": 132332,
-      "deleteTime": 192332,
+      "createTime": 148026,
+      "deleteTime": 208026,
       "keyframes": [
         {
-          "time": 132332,
-          "left": 8294,
-          "top": 485,
+          "time": 148026,
+          "left": 8179,
+          "top": 302,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 134371,
-          "left": 8294,
-          "top": 485,
+          "time": 150034,
+          "left": 8179,
+          "top": 302,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2141,20 +2141,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_23.jpg",
       "title": "aa_23.jpg",
       "statusBar": "Image 26",
-      "createTime": 130532,
-      "deleteTime": 190532,
+      "createTime": 147126,
+      "deleteTime": 207126,
       "keyframes": [
         {
-          "time": 130532,
-          "left": 8527,
-          "top": 425,
+          "time": 147126,
+          "left": 8439,
+          "top": 511,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 131657,
-          "left": 8527,
-          "top": 425,
+          "time": 148375,
+          "left": 8439,
+          "top": 511,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2165,20 +2165,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_37.jpg",
       "title": "aa_37.jpg",
       "statusBar": "Image 27",
-      "createTime": 132932,
-      "deleteTime": 192932,
+      "createTime": 142626,
+      "deleteTime": 202626,
       "keyframes": [
         {
-          "time": 132932,
-          "left": 8851,
-          "top": 149,
+          "time": 142626,
+          "left": 8886,
+          "top": 279,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 134820,
-          "left": 8851,
-          "top": 149,
+          "time": 144356,
+          "left": 8886,
+          "top": 279,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2189,20 +2189,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_12.jpg",
       "title": "aa_12.jpg",
       "statusBar": "Image 28",
-      "createTime": 134732,
-      "deleteTime": 194732,
+      "createTime": 149226,
+      "deleteTime": 209226,
       "keyframes": [
         {
-          "time": 134732,
-          "left": 9242,
-          "top": 362,
+          "time": 149226,
+          "left": 9113,
+          "top": 509,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 135885,
-          "left": 9242,
-          "top": 362,
+          "time": 151202,
+          "left": 9113,
+          "top": 509,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2213,20 +2213,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_06.jpg",
       "title": "aa_06.jpg",
       "statusBar": "Image 29",
-      "createTime": 134132,
-      "deleteTime": 194132,
+      "createTime": 155526,
+      "deleteTime": 215526,
       "keyframes": [
         {
-          "time": 134132,
-          "left": 9586,
-          "top": 471,
+          "time": 155526,
+          "left": 9575,
+          "top": 53,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 136741,
-          "left": 9586,
-          "top": 471,
+          "time": 157752,
+          "left": 9575,
+          "top": 53,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2237,20 +2237,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_07.jpg",
       "title": "aa_07.jpg",
       "statusBar": "Image 30",
-      "createTime": 129332,
-      "deleteTime": 189332,
+      "createTime": 152526,
+      "deleteTime": 212526,
       "keyframes": [
         {
-          "time": 129332,
-          "left": 9806,
-          "top": 316,
+          "time": 152526,
+          "left": 9782,
+          "top": 83,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 131992,
-          "left": 9806,
-          "top": 316,
+          "time": 153864,
+          "left": 9782,
+          "top": 83,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2261,20 +2261,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_13.jpg",
       "title": "aa_13.jpg",
       "statusBar": "Image 31",
-      "createTime": 131132,
-      "deleteTime": 191132,
+      "createTime": 143826,
+      "deleteTime": 203826,
       "keyframes": [
         {
-          "time": 131132,
-          "left": 10195,
-          "top": 227,
+          "time": 143826,
+          "left": 10187,
+          "top": 411,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 133611,
-          "left": 10195,
-          "top": 227,
+          "time": 146151,
+          "left": 10187,
+          "top": 411,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2285,20 +2285,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_05.jpg",
       "title": "aa_05.jpg",
       "statusBar": "Image 32",
-      "createTime": 127832,
-      "deleteTime": 187832,
+      "createTime": 151626,
+      "deleteTime": 211626,
       "keyframes": [
         {
-          "time": 127832,
-          "left": 10422,
-          "top": 123,
+          "time": 151626,
+          "left": 10459,
+          "top": 591,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 129755,
-          "left": 10422,
-          "top": 123,
+          "time": 152647,
+          "left": 10459,
+          "top": 591,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2309,20 +2309,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_11.jpg",
       "title": "aa_11.jpg",
       "statusBar": "Image 33",
-      "createTime": 135332,
-      "deleteTime": 195332,
+      "createTime": 145326,
+      "deleteTime": 205326,
       "keyframes": [
         {
-          "time": 135332,
-          "left": 10852,
-          "top": 111,
+          "time": 145326,
+          "left": 10842,
+          "top": 94,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 138285,
-          "left": 10852,
-          "top": 111,
+          "time": 147277,
+          "left": 10842,
+          "top": 94,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2333,20 +2333,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_39.jpg",
       "title": "aa_39.jpg",
       "statusBar": "Image 34",
-      "createTime": 126032,
-      "deleteTime": 186032,
+      "createTime": 144726,
+      "deleteTime": 204726,
       "keyframes": [
         {
-          "time": 126032,
-          "left": 11176,
-          "top": 445,
+          "time": 144726,
+          "left": 11061,
+          "top": 64,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 128597,
-          "left": 11176,
-          "top": 445,
+          "time": 147385,
+          "left": 11061,
+          "top": 64,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2357,20 +2357,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_38.jpg",
       "title": "aa_38.jpg",
       "statusBar": "Image 35",
-      "createTime": 136232,
-      "deleteTime": 196232,
+      "createTime": 144426,
+      "deleteTime": 204426,
       "keyframes": [
         {
-          "time": 136232,
-          "left": 11440,
-          "top": 218,
+          "time": 144426,
+          "left": 11487,
+          "top": 70,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 138756,
-          "left": 11440,
-          "top": 218,
+          "time": 145899,
+          "left": 11487,
+          "top": 70,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2378,23 +2378,23 @@
     },
     {
       "id": "aa_10.jpg-35",
-      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/cropped-files/aa_10.jpg",
+      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_10.jpg",
       "title": "aa_10.jpg",
       "statusBar": "Image 36",
-      "createTime": 136832,
-      "deleteTime": 196832,
+      "createTime": 145626,
+      "deleteTime": 205626,
       "keyframes": [
         {
-          "time": 136832,
-          "left": 11796,
-          "top": 437,
+          "time": 145626,
+          "left": 11793,
+          "top": 479,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 138101,
-          "left": 11796,
-          "top": 437,
+          "time": 148347,
+          "left": 11793,
+          "top": 479,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2405,20 +2405,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_04.jpg",
       "title": "aa_04.jpg",
       "statusBar": "Image 37",
-      "createTime": 131432,
-      "deleteTime": 191432,
+      "createTime": 153726,
+      "deleteTime": 213726,
       "keyframes": [
         {
-          "time": 131432,
-          "left": 12233,
-          "top": 374,
+          "time": 153726,
+          "left": 12094,
+          "top": 159,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 132621,
-          "left": 12233,
-          "top": 374,
+          "time": 155968,
+          "left": 12094,
+          "top": 159,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2429,20 +2429,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_28.jpg",
       "title": "aa_28.jpg",
       "statusBar": "Image 38",
-      "createTime": 125732,
-      "deleteTime": 185732,
+      "createTime": 147426,
+      "deleteTime": 207426,
       "keyframes": [
         {
-          "time": 125732,
-          "left": 12543,
-          "top": 288,
+          "time": 147426,
+          "left": 12373,
+          "top": 597,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 128620,
-          "left": 12543,
-          "top": 288,
+          "time": 150388,
+          "left": 12373,
+          "top": 597,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2453,20 +2453,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_14.jpg",
       "title": "aa_14.jpg",
       "statusBar": "Image 39",
-      "createTime": 129932,
-      "deleteTime": 189932,
+      "createTime": 145926,
+      "deleteTime": 205926,
       "keyframes": [
         {
-          "time": 129932,
-          "left": 12824,
-          "top": 407,
+          "time": 145926,
+          "left": 12731,
+          "top": 235,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 132264,
-          "left": 12824,
-          "top": 407,
+          "time": 147767,
+          "left": 12731,
+          "top": 235,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2477,20 +2477,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_15.jpg",
       "title": "aa_15.jpg",
       "statusBar": "Image 40",
-      "createTime": 136532,
-      "deleteTime": 196532,
+      "createTime": 152226,
+      "deleteTime": 212226,
       "keyframes": [
         {
-          "time": 136532,
-          "left": 13148,
-          "top": 86,
+          "time": 152226,
+          "left": 13125,
+          "top": 525,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 137842,
-          "left": 13148,
-          "top": 86,
+          "time": 154100,
+          "left": 13125,
+          "top": 525,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2501,20 +2501,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_01.jpg",
       "title": "aa_01.jpg",
       "statusBar": "Image 41",
-      "createTime": 126332,
-      "deleteTime": 186332,
+      "createTime": 144126,
+      "deleteTime": 204126,
       "keyframes": [
         {
-          "time": 126332,
-          "left": 13393,
-          "top": 114,
+          "time": 144126,
+          "left": 13480,
+          "top": 463,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 128210,
-          "left": 13393,
-          "top": 114,
+          "time": 145613,
+          "left": 13480,
+          "top": 463,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2522,23 +2522,23 @@
     },
     {
       "id": "aa_29.jpg-41",
-      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/cropped-files/aa_29.jpg",
+      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_29.jpg",
       "title": "aa_29.jpg",
       "statusBar": "Image 42",
-      "createTime": 130232,
-      "deleteTime": 190232,
+      "createTime": 153426,
+      "deleteTime": 213426,
       "keyframes": [
         {
-          "time": 130232,
-          "left": 13803,
-          "top": 335,
+          "time": 153426,
+          "left": 13842,
+          "top": 423,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 131877,
-          "left": 13803,
-          "top": 335,
+          "time": 155567,
+          "left": 13842,
+          "top": 423,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2546,23 +2546,23 @@
     },
     {
       "id": "aa_17.jpg-42",
-      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/cropped-files/aa_17.jpg",
+      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_17.jpg",
       "title": "aa_17.jpg",
       "statusBar": "Image 43",
-      "createTime": 138932,
-      "deleteTime": 198932,
+      "createTime": 146826,
+      "deleteTime": 206826,
       "keyframes": [
         {
-          "time": 138932,
-          "left": 14007,
-          "top": 3,
+          "time": 146826,
+          "left": 14180,
+          "top": 463,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 141563,
-          "left": 14007,
-          "top": 3,
+          "time": 148466,
+          "left": 14180,
+          "top": 463,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2573,20 +2573,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_03.jpg",
       "title": "aa_03.jpg",
       "statusBar": "Image 44",
-      "createTime": 135632,
-      "deleteTime": 195632,
+      "createTime": 143526,
+      "deleteTime": 203526,
       "keyframes": [
         {
-          "time": 135632,
-          "left": 14480,
-          "top": 431,
+          "time": 143526,
+          "left": 14465,
+          "top": 274,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 136676,
-          "left": 14480,
-          "top": 431,
+          "time": 145296,
+          "left": 14465,
+          "top": 274,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2597,20 +2597,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_02.jpg",
       "title": "aa_02.jpg",
       "statusBar": "Image 45",
-      "createTime": 125432,
-      "deleteTime": 185432,
+      "createTime": 150426,
+      "deleteTime": 210426,
       "keyframes": [
         {
-          "time": 125432,
-          "left": 14767,
-          "top": 353,
+          "time": 150426,
+          "left": 14729,
+          "top": 179,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 127334,
-          "left": 14767,
-          "top": 353,
+          "time": 153113,
+          "left": 14729,
+          "top": 179,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2618,23 +2618,23 @@
     },
     {
       "id": "aa_16.jpg-45",
-      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/cropped-files/aa_16.jpg",
+      "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_795_06_04_02/jpeg-exports/aa_16.jpg",
       "title": "aa_16.jpg",
       "statusBar": "Image 46",
-      "createTime": 129632,
-      "deleteTime": 189632,
+      "createTime": 148626,
+      "deleteTime": 208626,
       "keyframes": [
         {
-          "time": 129632,
-          "left": 15130,
-          "top": 96,
+          "time": 148626,
+          "left": 15099,
+          "top": 64,
           "opacity": 0,
           "scale": 0.2708333333333333
         },
         {
-          "time": 131844,
-          "left": 15130,
-          "top": 96,
+          "time": 150574,
+          "left": 15099,
+          "top": 64,
           "opacity": 1,
           "scale": 0.2708333333333333
         }
@@ -2645,20 +2645,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bruiser_Dent_Boydell_1791.jpg",
       "title": "Bruiser_Dent_Boydell_1791.jpg",
       "statusBar": "Bruiser| Dent (1791), LWL. ",
-      "createTime": 154844,
-      "deleteTime": 214844,
+      "createTime": 176574,
+      "deleteTime": 236574,
       "keyframes": [
         {
-          "time": 154844,
-          "left": 847,
-          "top": 125,
+          "time": 176574,
+          "left": 991,
+          "top": 76,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 157099,
-          "left": 847,
-          "top": 125,
+          "time": 179137,
+          "left": 991,
+          "top": 76,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2669,20 +2669,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bruiser_Clerk_Scholey_1810.jpg",
       "title": "Bruiser_Clerk_Scholey_1810.jpg",
       "statusBar": "Bruiser| Clerk (1810), LWL. ",
-      "createTime": 151844,
-      "deleteTime": 211844,
+      "createTime": 172574,
+      "deleteTime": 232574,
       "keyframes": [
         {
-          "time": 151844,
-          "left": 1941,
-          "top": 115,
+          "time": 172574,
+          "left": 1924,
+          "top": 26,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 154613,
-          "left": 1941,
-          "top": 115,
+          "time": 174250,
+          "left": 1924,
+          "top": 26,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2693,20 +2693,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bruiser_Unknown_Simpkin_1880.jpg",
       "title": "Bruiser_Unknown_Simpkin_1880.jpg",
       "statusBar": "Bruiser| Unknown (1880), LWL. ",
-      "createTime": 152844,
-      "deleteTime": 212844,
+      "createTime": 184574,
+      "deleteTime": 244574,
       "keyframes": [
         {
-          "time": 152844,
-          "left": 2867,
-          "top": 29,
+          "time": 184574,
+          "left": 2855,
+          "top": 173,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 155182,
-          "left": 2867,
-          "top": 29,
+          "time": 186223,
+          "left": 2855,
+          "top": 173,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2717,20 +2717,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bell after Hogarth_The Bruiser.jpg",
       "title": "Bell after Hogarth_The Bruiser.jpg",
       "statusBar": "Image 4",
-      "createTime": 153844,
-      "deleteTime": 213844,
+      "createTime": 173574,
+      "deleteTime": 233574,
       "keyframes": [
         {
-          "time": 153844,
-          "left": 3755,
-          "top": 186,
+          "time": 173574,
+          "left": 3642,
+          "top": 117,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 155355,
-          "left": 3755,
-          "top": 186,
+          "time": 175681,
+          "left": 3642,
+          "top": 117,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2741,20 +2741,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bruiser_Mills_Jones & Co._1833.jpg",
       "title": "Bruiser_Mills_Jones & Co._1833.jpg",
       "statusBar": "Image 5",
-      "createTime": 163844,
-      "deleteTime": 223844,
+      "createTime": 183574,
+      "deleteTime": 243574,
       "keyframes": [
         {
-          "time": 163844,
-          "left": 4568,
-          "top": 188,
+          "time": 183574,
+          "left": 4593,
+          "top": 132,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 166322,
-          "left": 4568,
-          "top": 188,
+          "time": 185638,
+          "left": 4593,
+          "top": 132,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2765,20 +2765,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Hogarth_The Bruiser_State 2.jpg",
       "title": "Hogarth_The Bruiser_State 2.jpg",
       "statusBar": "Image 6",
-      "createTime": 162844,
-      "deleteTime": 222844,
+      "createTime": 177574,
+      "deleteTime": 237574,
       "keyframes": [
         {
-          "time": 162844,
-          "left": 5474,
-          "top": 18,
+          "time": 177574,
+          "left": 5543,
+          "top": 5,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 165481,
-          "left": 5474,
-          "top": 18,
+          "time": 179815,
+          "left": 5543,
+          "top": 5,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2789,20 +2789,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Hogarth_The Bruiser_State 7.jpg",
       "title": "Hogarth_The Bruiser_State 7.jpg",
       "statusBar": "Image 7",
-      "createTime": 161844,
-      "deleteTime": 221844,
+      "createTime": 182574,
+      "deleteTime": 242574,
       "keyframes": [
         {
-          "time": 161844,
-          "left": 6436,
-          "top": 155,
+          "time": 182574,
+          "left": 6441,
+          "top": 33,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 164260,
-          "left": 6436,
-          "top": 155,
+          "time": 184317,
+          "left": 6441,
+          "top": 33,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2813,20 +2813,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Hogarth_The Bruiser_State 6.jpg",
       "title": "Hogarth_The Bruiser_State 6.jpg",
       "statusBar": "Image 8",
-      "createTime": 164844,
-      "deleteTime": 224844,
+      "createTime": 174574,
+      "deleteTime": 234574,
       "keyframes": [
         {
-          "time": 164844,
-          "left": 7365,
-          "top": 50,
+          "time": 174574,
+          "left": 7368,
+          "top": 137,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 166230,
-          "left": 7365,
-          "top": 50,
+          "time": 177465,
+          "left": 7368,
+          "top": 137,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2837,20 +2837,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bruiser_Mills_London Printing and Publishing_1860s.jpg",
       "title": "Bruiser_Mills_London Printing and Publishing_1860s.jpg",
       "statusBar": "Bruiser| Mills (1860's), LWL. ",
-      "createTime": 155844,
-      "deleteTime": 215844,
+      "createTime": 175574,
+      "deleteTime": 235574,
       "keyframes": [
         {
-          "time": 155844,
-          "left": 8261,
-          "top": 115,
+          "time": 175574,
+          "left": 8325,
+          "top": 5,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 157362,
-          "left": 8261,
-          "top": 115,
+          "time": 178142,
+          "left": 8325,
+          "top": 5,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2861,20 +2861,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bruiser_Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "title": "Bruiser_Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "statusBar": "Bruiser| Unknown (1883), LWL. ",
-      "createTime": 160844,
-      "deleteTime": 220844,
+      "createTime": 180574,
+      "deleteTime": 240574,
       "keyframes": [
         {
-          "time": 160844,
-          "left": 9306,
-          "top": 180,
+          "time": 180574,
+          "left": 9348,
+          "top": 10,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 162379,
-          "left": 9306,
-          "top": 180,
+          "time": 182830,
+          "left": 9348,
+          "top": 10,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2885,20 +2885,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bruiser_Cook_Longman_1807.jpg",
       "title": "Bruiser_Cook_Longman_1807.jpg",
       "statusBar": "Bruiser| Cook (1807), LWL. ",
-      "createTime": 158844,
-      "deleteTime": 218844,
+      "createTime": 171574,
+      "deleteTime": 231574,
       "keyframes": [
         {
-          "time": 158844,
-          "left": 10226,
-          "top": 187,
+          "time": 171574,
+          "left": 10091,
+          "top": 86,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 159864,
-          "left": 10226,
-          "top": 187,
+          "time": 172680,
+          "left": 10091,
+          "top": 86,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2909,20 +2909,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Bruiser_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "title": "Bruiser_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "statusBar": "Bruiser| Heath (1835), LWL. ",
-      "createTime": 159844,
-      "deleteTime": 219844,
+      "createTime": 170574,
+      "deleteTime": 230574,
       "keyframes": [
         {
-          "time": 159844,
-          "left": 11176,
-          "top": 103,
+          "time": 170574,
+          "left": 11106,
+          "top": 170,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 162762,
-          "left": 11176,
-          "top": 103,
+          "time": 172499,
+          "left": 11106,
+          "top": 170,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2933,20 +2933,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/A satire on Hogarth and the Rev C Churchill.jpg",
       "title": "A satire on Hogarth and the Rev C Churchill.jpg",
       "statusBar": "Image 13",
-      "createTime": 165844,
-      "deleteTime": 225844,
+      "createTime": 178574,
+      "deleteTime": 238574,
       "keyframes": [
         {
-          "time": 165844,
-          "left": 11983,
-          "top": 22,
+          "time": 178574,
+          "left": 12123,
+          "top": 106,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 167732,
-          "left": 11983,
-          "top": 22,
+          "time": 181187,
+          "left": 12123,
+          "top": 106,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2957,20 +2957,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Hogarth_The Bruiser_State 4.jpg",
       "title": "Hogarth_The Bruiser_State 4.jpg",
       "statusBar": "Image 14",
-      "createTime": 156844,
-      "deleteTime": 216844,
+      "createTime": 179574,
+      "deleteTime": 239574,
       "keyframes": [
         {
-          "time": 156844,
-          "left": 12951,
-          "top": 34,
+          "time": 179574,
+          "left": 12940,
+          "top": 84,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 158721,
-          "left": 12951,
-          "top": 34,
+          "time": 180885,
+          "left": 12940,
+          "top": 84,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -2981,20 +2981,20 @@
       "image": "./converted/exhibition_images/Self-Portrait Bear/Hogarth_The Bruiser_State 5.jpg",
       "title": "Hogarth_The Bruiser_State 5.jpg",
       "statusBar": "Image 15",
-      "createTime": 157844,
-      "deleteTime": 217844,
+      "createTime": 181574,
+      "deleteTime": 241574,
       "keyframes": [
         {
-          "time": 157844,
-          "left": 13859,
-          "top": 116,
+          "time": 181574,
+          "left": 13894,
+          "top": 78,
           "opacity": 0,
           "scale": 0.7647058823529411
         },
         {
-          "time": 158915,
-          "left": 13859,
-          "top": 116,
+          "time": 184061,
+          "left": 13894,
+          "top": 78,
           "opacity": 1,
           "scale": 0.7647058823529411
         }
@@ -3005,20 +3005,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Comic Muse copper plate detail_corner light -0.5.jpg",
       "title": "Comic Muse copper plate detail_corner light -0.5.jpg",
       "statusBar": "Image 1",
-      "createTime": 179215,
-      "deleteTime": 239215,
+      "createTime": 209161,
+      "deleteTime": 269161,
       "keyframes": [
         {
-          "time": 179215,
-          "left": 747,
-          "top": 475,
+          "time": 209161,
+          "left": 613,
+          "top": 371,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 181738,
-          "left": 747,
-          "top": 475,
+          "time": 211327,
+          "left": 613,
+          "top": 371,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3029,20 +3029,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/NPG_Hogarth_William Hogarth.jpg",
       "title": "NPG_Hogarth_William Hogarth.jpg",
       "statusBar": "Image 2",
-      "createTime": 182815,
-      "deleteTime": 242815,
+      "createTime": 209461,
+      "deleteTime": 269461,
       "keyframes": [
         {
-          "time": 182815,
-          "left": 1405,
-          "top": 28,
+          "time": 209461,
+          "left": 1294,
+          "top": 450,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 184119,
-          "left": 1405,
-          "top": 28,
+          "time": 211999,
+          "left": 1294,
+          "top": 450,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3053,20 +3053,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Comic Muse_Unknown_Simpkin_1880.jpg",
       "title": "Comic Muse_Unknown_Simpkin_1880.jpg",
       "statusBar": "Comic Muse| Unknown (1880), LWL. ",
-      "createTime": 181915,
-      "deleteTime": 241915,
+      "createTime": 207061,
+      "deleteTime": 267061,
       "keyframes": [
         {
-          "time": 181915,
-          "left": 2006,
-          "top": 81,
+          "time": 207061,
+          "left": 1973,
+          "top": 417,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 184783,
-          "left": 2006,
-          "top": 81,
+          "time": 210056,
+          "left": 1973,
+          "top": 417,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3077,20 +3077,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Job_1448.jpg",
       "title": "Job_1448.jpg",
       "statusBar": "Image 4",
-      "createTime": 180415,
-      "deleteTime": 240415,
+      "createTime": 208261,
+      "deleteTime": 268261,
       "keyframes": [
         {
-          "time": 180415,
-          "left": 2659,
-          "top": 185,
+          "time": 208261,
+          "left": 2696,
+          "top": 454,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 181515,
-          "left": 2659,
-          "top": 185,
+          "time": 210532,
+          "left": 2696,
+          "top": 454,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3101,20 +3101,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Job_1461.jpg",
       "title": "Job_1461.jpg",
       "statusBar": "Image 5",
-      "createTime": 178915,
-      "deleteTime": 238915,
+      "createTime": 205861,
+      "deleteTime": 265861,
       "keyframes": [
         {
-          "time": 178915,
-          "left": 3519,
-          "top": 163,
+          "time": 205861,
+          "left": 3362,
+          "top": 71,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 181477,
-          "left": 3519,
-          "top": 163,
+          "time": 207742,
+          "left": 3362,
+          "top": 71,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3125,20 +3125,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Job_1463.jpg",
       "title": "Job_1463.jpg",
       "statusBar": "Image 6",
-      "createTime": 182215,
-      "deleteTime": 242215,
+      "createTime": 204661,
+      "deleteTime": 264661,
       "keyframes": [
         {
-          "time": 182215,
-          "left": 4165,
-          "top": 376,
+          "time": 204661,
+          "left": 4090,
+          "top": 187,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 184332,
-          "left": 4165,
-          "top": 376,
+          "time": 206526,
+          "left": 4090,
+          "top": 187,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3149,20 +3149,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Job_1462.jpg",
       "title": "Job_1462.jpg",
       "statusBar": "Image 7",
-      "createTime": 183715,
-      "deleteTime": 243715,
+      "createTime": 209761,
+      "deleteTime": 269761,
       "keyframes": [
         {
-          "time": 183715,
-          "left": 4693,
-          "top": 402,
+          "time": 209761,
+          "left": 4839,
+          "top": 451,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 185494,
-          "left": 4693,
-          "top": 402,
+          "time": 210861,
+          "left": 4839,
+          "top": 451,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3173,20 +3173,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Sandby_Tit for Tat.jpg",
       "title": "Sandby_Tit for Tat.jpg",
       "statusBar": "Image 8",
-      "createTime": 184615,
-      "deleteTime": 244615,
+      "createTime": 207961,
+      "deleteTime": 267961,
       "keyframes": [
         {
-          "time": 184615,
-          "left": 5388,
-          "top": 78,
+          "time": 207961,
+          "left": 5460,
+          "top": 579,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 185987,
-          "left": 5388,
-          "top": 78,
+          "time": 209499,
+          "left": 5460,
+          "top": 579,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3197,20 +3197,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Comic Muse_Clerk_Scholey_1810.jpg",
       "title": "Comic Muse_Clerk_Scholey_1810.jpg",
       "statusBar": "Comic Muse| Clerk (1810), LWL. ",
-      "createTime": 184315,
-      "deleteTime": 244315,
+      "createTime": 208861,
+      "deleteTime": 268861,
       "keyframes": [
         {
-          "time": 184315,
-          "left": 6089,
-          "top": 286,
+          "time": 208861,
+          "left": 6061,
+          "top": 530,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 186279,
-          "left": 6089,
-          "top": 286,
+          "time": 210338,
+          "left": 6061,
+          "top": 530,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3221,20 +3221,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/An Answer_John Wilkes.jpg",
       "title": "An Answer_John Wilkes.jpg",
       "statusBar": "Image 10",
-      "createTime": 183415,
-      "deleteTime": 243415,
+      "createTime": 204061,
+      "deleteTime": 264061,
       "keyframes": [
         {
-          "time": 183415,
-          "left": 6821,
-          "top": 581,
+          "time": 204061,
+          "left": 6835,
+          "top": 43,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 185724,
-          "left": 6821,
-          "top": 581,
+          "time": 206412,
+          "left": 6835,
+          "top": 43,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3245,20 +3245,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Hogarth_Comic Muse_State 4.jpg",
       "title": "Hogarth_Comic Muse_State 4.jpg",
       "statusBar": "Image 11",
-      "createTime": 181315,
-      "deleteTime": 241315,
+      "createTime": 206461,
+      "deleteTime": 266461,
       "keyframes": [
         {
-          "time": 181315,
-          "left": 7599,
-          "top": 369,
+          "time": 206461,
+          "left": 7445,
+          "top": 563,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 182870,
-          "left": 7599,
-          "top": 369,
+          "time": 208326,
+          "left": 7445,
+          "top": 563,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3269,20 +3269,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Hogarth_Comic Muse_State 5.jpg",
       "title": "Hogarth_Comic Muse_State 5.jpg",
       "statusBar": "Image 12",
-      "createTime": 180115,
-      "deleteTime": 240115,
+      "createTime": 205261,
+      "deleteTime": 265261,
       "keyframes": [
         {
-          "time": 180115,
-          "left": 8226,
-          "top": 453,
+          "time": 205261,
+          "left": 8247,
+          "top": 238,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 182972,
-          "left": 8226,
-          "top": 453,
+          "time": 206622,
+          "left": 8247,
+          "top": 238,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3293,20 +3293,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Comic Muse_Dent_Boydell_1791.jpg",
       "title": "Comic Muse_Dent_Boydell_1791.jpg",
       "statusBar": "Comic Muse| Dent (1791), LWL. ",
-      "createTime": 181015,
-      "deleteTime": 241015,
+      "createTime": 207661,
+      "deleteTime": 267661,
       "keyframes": [
         {
-          "time": 181015,
-          "left": 8935,
-          "top": 280,
+          "time": 207661,
+          "left": 8877,
+          "top": 76,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 183873,
-          "left": 8935,
-          "top": 280,
+          "time": 208826,
+          "left": 8877,
+          "top": 76,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3317,20 +3317,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Hogarth_Comic Muse_State 7.jpg",
       "title": "Hogarth_Comic Muse_State 7.jpg",
       "statusBar": "Image 14",
-      "createTime": 180715,
-      "deleteTime": 240715,
+      "createTime": 205561,
+      "deleteTime": 265561,
       "keyframes": [
         {
-          "time": 180715,
-          "left": 9618,
-          "top": 290,
+          "time": 205561,
+          "left": 9481,
+          "top": 424,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 183605,
-          "left": 9618,
-          "top": 290,
+          "time": 207958,
+          "left": 9481,
+          "top": 424,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3341,20 +3341,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Hogarth_Comic Muse_State 6.jpg",
       "title": "Hogarth_Comic Muse_State 6.jpg",
       "statusBar": "Image 15",
-      "createTime": 179815,
-      "deleteTime": 239815,
+      "createTime": 204961,
+      "deleteTime": 264961,
       "keyframes": [
         {
-          "time": 179815,
-          "left": 10267,
-          "top": 525,
+          "time": 204961,
+          "left": 10273,
+          "top": 73,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 181576,
-          "left": 10267,
-          "top": 525,
+          "time": 206104,
+          "left": 10273,
+          "top": 73,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3365,20 +3365,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Comic Muse_Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "title": "Comic Muse_Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "statusBar": "Comic Muse| Unknown (1883), LWL. ",
-      "createTime": 179515,
-      "deleteTime": 239515,
+      "createTime": 207361,
+      "deleteTime": 267361,
       "keyframes": [
         {
-          "time": 179515,
-          "left": 10943,
-          "top": 411,
+          "time": 207361,
+          "left": 10944,
+          "top": 544,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 182423,
-          "left": 10943,
-          "top": 411,
+          "time": 209311,
+          "left": 10944,
+          "top": 544,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3389,20 +3389,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Job_1447.jpg",
       "title": "Job_1447.jpg",
       "statusBar": "Image 17",
-      "createTime": 184015,
-      "deleteTime": 244015,
+      "createTime": 204361,
+      "deleteTime": 264361,
       "keyframes": [
         {
-          "time": 184015,
-          "left": 11593,
-          "top": 25,
+          "time": 204361,
+          "left": 11656,
+          "top": 522,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 186939,
-          "left": 11593,
-          "top": 25,
+          "time": 206657,
+          "left": 11656,
+          "top": 522,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3413,20 +3413,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Comic Muse_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "title": "Comic Muse_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "statusBar": "Comic Muse| Heath (1835), LWL. ",
-      "createTime": 183115,
-      "deleteTime": 243115,
+      "createTime": 206161,
+      "deleteTime": 266161,
       "keyframes": [
         {
-          "time": 183115,
-          "left": 12369,
-          "top": 551,
+          "time": 206161,
+          "left": 12386,
+          "top": 521,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 185681,
-          "left": 12369,
-          "top": 551,
+          "time": 208674,
+          "left": 12386,
+          "top": 521,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3437,20 +3437,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Copper Plate_Hogarth_Comic Muse.jpg",
       "title": "Copper Plate_Hogarth_Comic Muse.jpg",
       "statusBar": "Image 19",
-      "createTime": 184915,
-      "deleteTime": 244915,
+      "createTime": 208561,
+      "deleteTime": 268561,
       "keyframes": [
         {
-          "time": 184915,
-          "left": 12983,
-          "top": 182,
+          "time": 208561,
+          "left": 12947,
+          "top": 243,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 187376,
-          "left": 12983,
-          "top": 182,
+          "time": 209898,
+          "left": 12947,
+          "top": 243,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3461,20 +3461,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Dent_Hogarth_Comic muse.jpg",
       "title": "Dent_Hogarth_Comic muse.jpg",
       "statusBar": "Image 20",
-      "createTime": 181615,
-      "deleteTime": 241615,
+      "createTime": 206761,
+      "deleteTime": 266761,
       "keyframes": [
         {
-          "time": 181615,
-          "left": 13732,
-          "top": 19,
+          "time": 206761,
+          "left": 13631,
+          "top": 60,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 184389,
-          "left": 13732,
-          "top": 19,
+          "time": 209392,
+          "left": 13631,
+          "top": 60,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3485,20 +3485,20 @@
       "image": "./converted/exhibition_images/Self-Portrait with Comic Muse/Comic Muse_Moore_London Printing and Publishing_1860s.jpg",
       "title": "Comic Muse_Moore_London Printing and Publishing_1860s.jpg",
       "statusBar": "Comic Muse| Moore (1860's), LWL. ",
-      "createTime": 182515,
-      "deleteTime": 242515,
+      "createTime": 210061,
+      "deleteTime": 270061,
       "keyframes": [
         {
-          "time": 182515,
-          "left": 14451,
-          "top": 389,
+          "time": 210061,
+          "left": 14423,
+          "top": 430,
           "opacity": 0,
           "scale": 0.5652173913043478
         },
         {
-          "time": 183532,
-          "left": 14451,
-          "top": 389,
+          "time": 212328,
+          "left": 14423,
+          "top": 430,
           "opacity": 1,
           "scale": 0.5652173913043478
         }
@@ -3509,20 +3509,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_16.jpg",
       "title": "bb_16.jpg",
       "statusBar": "Image 1",
-      "createTime": 210432,
-      "deleteTime": 270432,
+      "createTime": 244328,
+      "deleteTime": 304328,
       "keyframes": [
         {
-          "time": 210432,
-          "left": 354,
-          "top": 558,
+          "time": 244328,
+          "left": 265,
+          "top": 133,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 213329,
-          "left": 354,
-          "top": 558,
+          "time": 246750,
+          "left": 265,
+          "top": 133,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3533,20 +3533,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_02.jpg",
       "title": "bb_02.jpg",
       "statusBar": "Image 2",
-      "createTime": 214932,
-      "deleteTime": 274932,
+      "createTime": 243428,
+      "deleteTime": 303428,
       "keyframes": [
         {
-          "time": 214932,
-          "left": 695,
-          "top": 551,
+          "time": 243428,
+          "left": 686,
+          "top": 334,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 216657,
-          "left": 695,
-          "top": 551,
+          "time": 244600,
+          "left": 686,
+          "top": 334,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3557,20 +3557,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_03.jpg",
       "title": "bb_03.jpg",
       "statusBar": "Image 3",
-      "createTime": 211032,
-      "deleteTime": 271032,
+      "createTime": 235628,
+      "deleteTime": 295628,
       "keyframes": [
         {
-          "time": 211032,
-          "left": 1091,
-          "top": 333,
+          "time": 235628,
+          "left": 1101,
+          "top": 592,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 212617,
-          "left": 1091,
-          "top": 333,
+          "time": 238410,
+          "left": 1101,
+          "top": 592,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3581,20 +3581,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_17.jpg",
       "title": "bb_17.jpg",
       "statusBar": "Image 4",
-      "createTime": 213732,
-      "deleteTime": 273732,
+      "createTime": 236528,
+      "deleteTime": 296528,
       "keyframes": [
         {
-          "time": 213732,
-          "left": 1332,
-          "top": 158,
+          "time": 236528,
+          "left": 1333,
+          "top": 180,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 216709,
-          "left": 1332,
-          "top": 158,
+          "time": 238307,
+          "left": 1333,
+          "top": 180,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3605,20 +3605,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_29.jpg",
       "title": "bb_29.jpg",
       "statusBar": "Image 5",
-      "createTime": 209232,
-      "deleteTime": 269232,
+      "createTime": 241928,
+      "deleteTime": 301928,
       "keyframes": [
         {
-          "time": 209232,
-          "left": 1727,
-          "top": 169,
+          "time": 241928,
+          "left": 1629,
+          "top": 503,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 210529,
-          "left": 1727,
-          "top": 169,
+          "time": 243081,
+          "left": 1629,
+          "top": 503,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3629,20 +3629,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_01.jpg",
       "title": "bb_01.jpg",
       "statusBar": "Image 6",
-      "createTime": 205032,
-      "deleteTime": 265032,
+      "createTime": 245228,
+      "deleteTime": 305228,
       "keyframes": [
         {
-          "time": 205032,
-          "left": 2110,
-          "top": 586,
+          "time": 245228,
+          "left": 1983,
+          "top": 472,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 206384,
-          "left": 2110,
-          "top": 586,
+          "time": 246364,
+          "left": 1983,
+          "top": 472,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3653,20 +3653,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_15.jpg",
       "title": "bb_15.jpg",
       "statusBar": "Image 7",
-      "createTime": 203832,
-      "deleteTime": 263832,
+      "createTime": 235028,
+      "deleteTime": 295028,
       "keyframes": [
         {
-          "time": 203832,
-          "left": 2268,
-          "top": 476,
+          "time": 235028,
+          "left": 2254,
+          "top": 272,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 206565,
-          "left": 2268,
-          "top": 476,
+          "time": 237618,
+          "left": 2254,
+          "top": 272,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3677,20 +3677,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_14.jpg",
       "title": "bb_14.jpg",
       "statusBar": "Image 8",
-      "createTime": 206532,
-      "deleteTime": 266532,
+      "createTime": 245528,
+      "deleteTime": 305528,
       "keyframes": [
         {
-          "time": 206532,
-          "left": 2610,
-          "top": 537,
+          "time": 245528,
+          "left": 2680,
+          "top": 551,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 208316,
-          "left": 2610,
-          "top": 537,
+          "time": 247973,
+          "left": 2680,
+          "top": 551,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3701,20 +3701,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_28.jpg",
       "title": "bb_28.jpg",
       "statusBar": "Image 9",
-      "createTime": 208332,
-      "deleteTime": 268332,
+      "createTime": 241028,
+      "deleteTime": 301028,
       "keyframes": [
         {
-          "time": 208332,
-          "left": 3000,
-          "top": 275,
+          "time": 241028,
+          "left": 2969,
+          "top": 298,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 209646,
-          "left": 3000,
-          "top": 275,
+          "time": 243594,
+          "left": 2969,
+          "top": 298,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3725,20 +3725,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_04.jpg",
       "title": "bb_04.jpg",
       "statusBar": "Image 10",
-      "createTime": 215232,
-      "deleteTime": 275232,
+      "createTime": 240428,
+      "deleteTime": 300428,
       "keyframes": [
         {
-          "time": 215232,
-          "left": 3371,
-          "top": 547,
+          "time": 240428,
+          "left": 3268,
+          "top": 500,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 216945,
-          "left": 3371,
-          "top": 547,
+          "time": 243349,
+          "left": 3268,
+          "top": 500,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3749,20 +3749,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_10.jpg",
       "title": "bb_10.jpg",
       "statusBar": "Image 11",
-      "createTime": 210732,
-      "deleteTime": 270732,
+      "createTime": 239828,
+      "deleteTime": 299828,
       "keyframes": [
         {
-          "time": 210732,
-          "left": 3724,
-          "top": 66,
+          "time": 239828,
+          "left": 3620,
+          "top": 86,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 213398,
-          "left": 3724,
-          "top": 66,
+          "time": 241456,
+          "left": 3620,
+          "top": 86,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3773,20 +3773,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_38.jpg",
       "title": "bb_38.jpg",
       "statusBar": "Image 12",
-      "createTime": 213432,
-      "deleteTime": 273432,
+      "createTime": 232628,
+      "deleteTime": 292628,
       "keyframes": [
         {
-          "time": 213432,
-          "left": 4086,
-          "top": 443,
+          "time": 232628,
+          "left": 3961,
+          "top": 508,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 214804,
-          "left": 4086,
-          "top": 443,
+          "time": 234721,
+          "left": 3961,
+          "top": 508,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3797,20 +3797,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_39.jpg",
       "title": "bb_39.jpg",
       "statusBar": "Image 13",
-      "createTime": 211332,
-      "deleteTime": 271332,
+      "createTime": 233828,
+      "deleteTime": 293828,
       "keyframes": [
         {
-          "time": 211332,
-          "left": 4440,
-          "top": 290,
+          "time": 233828,
+          "left": 4386,
+          "top": 137,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 213511,
-          "left": 4440,
-          "top": 290,
+          "time": 236771,
+          "left": 4386,
+          "top": 137,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3821,20 +3821,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_11.jpg",
       "title": "bb_11.jpg",
       "statusBar": "Image 14",
-      "createTime": 216132,
-      "deleteTime": 276132,
+      "createTime": 239228,
+      "deleteTime": 299228,
       "keyframes": [
         {
-          "time": 216132,
-          "left": 4784,
-          "top": 331,
+          "time": 239228,
+          "left": 4612,
+          "top": 121,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 218702,
-          "left": 4784,
-          "top": 331,
+          "time": 240374,
+          "left": 4612,
+          "top": 121,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3845,20 +3845,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_05.jpg",
       "title": "bb_05.jpg",
       "statusBar": "Image 15",
-      "createTime": 215832,
-      "deleteTime": 275832,
+      "createTime": 234428,
+      "deleteTime": 294428,
       "keyframes": [
         {
-          "time": 215832,
-          "left": 5050,
-          "top": 173,
+          "time": 234428,
+          "left": 5118,
+          "top": 332,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 217415,
-          "left": 5050,
-          "top": 173,
+          "time": 236717,
+          "left": 5118,
+          "top": 332,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3869,20 +3869,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_13.jpg",
       "title": "bb_13.jpg",
       "statusBar": "Image 16",
-      "createTime": 208932,
-      "deleteTime": 268932,
+      "createTime": 237128,
+      "deleteTime": 297128,
       "keyframes": [
         {
-          "time": 208932,
-          "left": 5287,
-          "top": 192,
+          "time": 237128,
+          "left": 5446,
+          "top": 46,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 210165,
-          "left": 5287,
-          "top": 192,
+          "time": 240091,
+          "left": 5446,
+          "top": 46,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3893,20 +3893,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_07.jpg",
       "title": "bb_07.jpg",
       "statusBar": "Image 17",
-      "createTime": 214332,
-      "deleteTime": 274332,
+      "createTime": 241328,
+      "deleteTime": 301328,
       "keyframes": [
         {
-          "time": 214332,
-          "left": 5700,
-          "top": 241,
+          "time": 241328,
+          "left": 5772,
+          "top": 545,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 216907,
-          "left": 5700,
-          "top": 241,
+          "time": 244205,
+          "left": 5772,
+          "top": 545,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3917,20 +3917,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_06.jpg",
       "title": "bb_06.jpg",
       "statusBar": "Image 18",
-      "createTime": 207732,
-      "deleteTime": 267732,
+      "createTime": 234728,
+      "deleteTime": 294728,
       "keyframes": [
         {
-          "time": 207732,
-          "left": 6098,
-          "top": 542,
+          "time": 234728,
+          "left": 6053,
+          "top": 180,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 209891,
-          "left": 6098,
-          "top": 542,
+          "time": 236160,
+          "left": 6053,
+          "top": 180,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3941,20 +3941,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_12.jpg",
       "title": "bb_12.jpg",
       "statusBar": "Image 19",
-      "createTime": 216432,
-      "deleteTime": 276432,
+      "createTime": 234128,
+      "deleteTime": 294128,
       "keyframes": [
         {
-          "time": 216432,
-          "left": 6268,
-          "top": 221,
+          "time": 234128,
+          "left": 6385,
+          "top": 41,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 217737,
-          "left": 6268,
-          "top": 221,
+          "time": 236537,
+          "left": 6385,
+          "top": 41,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3965,20 +3965,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_37.jpg",
       "title": "bb_37.jpg",
       "statusBar": "Image 20",
-      "createTime": 212232,
-      "deleteTime": 272232,
+      "createTime": 239528,
+      "deleteTime": 299528,
       "keyframes": [
         {
-          "time": 212232,
-          "left": 6777,
-          "top": 448,
+          "time": 239528,
+          "left": 6661,
+          "top": 20,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 214454,
-          "left": 6777,
-          "top": 448,
+          "time": 240606,
+          "left": 6661,
+          "top": 20,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -3989,20 +3989,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_23.jpg",
       "title": "bb_23.jpg",
       "statusBar": "Image 21",
-      "createTime": 212532,
-      "deleteTime": 272532,
+      "createTime": 244928,
+      "deleteTime": 304928,
       "keyframes": [
         {
-          "time": 212532,
-          "left": 6982,
-          "top": 590,
+          "time": 244928,
+          "left": 7067,
+          "top": 78,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 213712,
-          "left": 6982,
-          "top": 590,
+          "time": 246718,
+          "left": 7067,
+          "top": 78,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4013,20 +4013,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_22.jpg",
       "title": "bb_22.jpg",
       "statusBar": "Image 22",
-      "createTime": 212832,
-      "deleteTime": 272832,
+      "createTime": 232928,
+      "deleteTime": 292928,
       "keyframes": [
         {
-          "time": 212832,
-          "left": 7423,
-          "top": 164,
+          "time": 232928,
+          "left": 7396,
+          "top": 126,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 213991,
-          "left": 7423,
-          "top": 164,
+          "time": 234318,
+          "left": 7396,
+          "top": 126,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4037,20 +4037,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_36.jpg",
       "title": "bb_36.jpg",
       "statusBar": "Image 23",
-      "createTime": 203532,
-      "deleteTime": 263532,
+      "createTime": 240128,
+      "deleteTime": 300128,
       "keyframes": [
         {
-          "time": 203532,
-          "left": 7621,
-          "top": 568,
+          "time": 240128,
+          "left": 7709,
+          "top": 350,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 206187,
-          "left": 7621,
-          "top": 568,
+          "time": 243016,
+          "left": 7709,
+          "top": 350,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4061,20 +4061,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_08.jpg",
       "title": "bb_08.jpg",
       "statusBar": "Image 24",
-      "createTime": 204432,
-      "deleteTime": 264432,
+      "createTime": 237428,
+      "deleteTime": 297428,
       "keyframes": [
         {
-          "time": 204432,
-          "left": 7973,
-          "top": 327,
+          "time": 237428,
+          "left": 7987,
+          "top": 468,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 205620,
-          "left": 7973,
-          "top": 327,
+          "time": 239401,
+          "left": 7987,
+          "top": 468,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4085,20 +4085,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_20.jpg",
       "title": "bb_20.jpg",
       "statusBar": "Image 25",
-      "createTime": 206832,
-      "deleteTime": 266832,
+      "createTime": 243128,
+      "deleteTime": 303128,
       "keyframes": [
         {
-          "time": 206832,
-          "left": 8279,
-          "top": 310,
+          "time": 243128,
+          "left": 8389,
+          "top": 124,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 209361,
-          "left": 8279,
-          "top": 310,
+          "time": 245085,
+          "left": 8389,
+          "top": 124,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4109,20 +4109,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_34.jpg",
       "title": "bb_34.jpg",
       "statusBar": "Image 26",
-      "createTime": 204732,
-      "deleteTime": 264732,
+      "createTime": 233228,
+      "deleteTime": 293228,
       "keyframes": [
         {
-          "time": 204732,
-          "left": 8665,
-          "top": 231,
+          "time": 233228,
+          "left": 8800,
+          "top": 347,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 207156,
-          "left": 8665,
-          "top": 231,
+          "time": 235567,
+          "left": 8800,
+          "top": 347,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4133,20 +4133,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_35.jpg",
       "title": "bb_35.jpg",
       "statusBar": "Image 27",
-      "createTime": 215532,
-      "deleteTime": 275532,
+      "createTime": 242228,
+      "deleteTime": 302228,
       "keyframes": [
         {
-          "time": 215532,
-          "left": 9077,
-          "top": 361,
+          "time": 242228,
+          "left": 9050,
+          "top": 559,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 217850,
-          "left": 9077,
-          "top": 361,
+          "time": 245193,
+          "left": 9050,
+          "top": 559,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4157,20 +4157,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_21.jpg",
       "title": "bb_21.jpg",
       "statusBar": "Image 28",
-      "createTime": 210132,
-      "deleteTime": 270132,
+      "createTime": 238028,
+      "deleteTime": 298028,
       "keyframes": [
         {
-          "time": 210132,
-          "left": 9416,
-          "top": 289,
+          "time": 238028,
+          "left": 9387,
+          "top": 448,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 212287,
-          "left": 9416,
-          "top": 289,
+          "time": 239931,
+          "left": 9387,
+          "top": 448,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4181,20 +4181,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_09.jpg",
       "title": "bb_09.jpg",
       "statusBar": "Image 29",
-      "createTime": 216732,
-      "deleteTime": 276732,
+      "createTime": 244628,
+      "deleteTime": 304628,
       "keyframes": [
         {
-          "time": 216732,
-          "left": 9787,
-          "top": 381,
+          "time": 244628,
+          "left": 9689,
+          "top": 262,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 218296,
-          "left": 9787,
-          "top": 381,
+          "time": 246122,
+          "left": 9689,
+          "top": 262,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4205,20 +4205,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_25.jpg",
       "title": "bb_25.jpg",
       "statusBar": "Image 30",
-      "createTime": 207432,
-      "deleteTime": 267432,
+      "createTime": 240728,
+      "deleteTime": 300728,
       "keyframes": [
         {
-          "time": 207432,
-          "left": 10008,
-          "top": 263,
+          "time": 240728,
+          "left": 10084,
+          "top": 229,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 210424,
-          "left": 10008,
-          "top": 263,
+          "time": 242671,
+          "left": 10084,
+          "top": 229,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4229,20 +4229,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_31.jpg",
       "title": "bb_31.jpg",
       "statusBar": "Image 31",
-      "createTime": 209532,
-      "deleteTime": 269532,
+      "createTime": 236228,
+      "deleteTime": 296228,
       "keyframes": [
         {
-          "time": 209532,
-          "left": 10398,
-          "top": 145,
+          "time": 236228,
+          "left": 10436,
+          "top": 94,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 211711,
-          "left": 10398,
-          "top": 145,
+          "time": 237694,
+          "left": 10436,
+          "top": 94,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4253,20 +4253,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_19.jpg",
       "title": "bb_19.jpg",
       "statusBar": "Image 32",
-      "createTime": 205632,
-      "deleteTime": 265632,
+      "createTime": 236828,
+      "deleteTime": 296828,
       "keyframes": [
         {
-          "time": 205632,
-          "left": 10817,
-          "top": 305,
+          "time": 236828,
+          "left": 10766,
+          "top": 100,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 208538,
-          "left": 10817,
-          "top": 305,
+          "time": 239421,
+          "left": 10766,
+          "top": 100,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4277,20 +4277,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_18.jpg",
       "title": "bb_18.jpg",
       "statusBar": "Image 33",
-      "createTime": 209832,
-      "deleteTime": 269832,
+      "createTime": 244028,
+      "deleteTime": 304028,
       "keyframes": [
         {
-          "time": 209832,
-          "left": 11096,
-          "top": 126,
+          "time": 244028,
+          "left": 11057,
+          "top": 116,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 211078,
-          "left": 11096,
-          "top": 126,
+          "time": 246996,
+          "left": 11057,
+          "top": 116,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4301,20 +4301,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_30.jpg",
       "title": "bb_30.jpg",
       "statusBar": "Image 34",
-      "createTime": 205932,
-      "deleteTime": 265932,
+      "createTime": 243728,
+      "deleteTime": 303728,
       "keyframes": [
         {
-          "time": 205932,
-          "left": 11387,
-          "top": 298,
+          "time": 243728,
+          "left": 11343,
+          "top": 212,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 207962,
-          "left": 11387,
-          "top": 298,
+          "time": 246712,
+          "left": 11343,
+          "top": 212,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4325,20 +4325,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_24.jpg",
       "title": "bb_24.jpg",
       "statusBar": "Image 35",
-      "createTime": 204132,
-      "deleteTime": 264132,
+      "createTime": 235928,
+      "deleteTime": 295928,
       "keyframes": [
         {
-          "time": 204132,
-          "left": 11733,
-          "top": 451,
+          "time": 235928,
+          "left": 11754,
+          "top": 532,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 205428,
-          "left": 11733,
-          "top": 451,
+          "time": 237568,
+          "left": 11754,
+          "top": 532,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4349,20 +4349,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_32.jpg",
       "title": "bb_32.jpg",
       "statusBar": "Image 36",
-      "createTime": 208632,
-      "deleteTime": 268632,
+      "createTime": 242828,
+      "deleteTime": 302828,
       "keyframes": [
         {
-          "time": 208632,
-          "left": 12050,
-          "top": 31,
+          "time": 242828,
+          "left": 12086,
+          "top": 124,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 209637,
-          "left": 12050,
-          "top": 31,
+          "time": 243856,
+          "left": 12086,
+          "top": 124,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4373,20 +4373,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_26.jpg",
       "title": "bb_26.jpg",
       "statusBar": "Image 37",
-      "createTime": 208032,
-      "deleteTime": 268032,
+      "createTime": 242528,
+      "deleteTime": 302528,
       "keyframes": [
         {
-          "time": 208032,
-          "left": 12327,
-          "top": 6,
+          "time": 242528,
+          "left": 12357,
+          "top": 79,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 210949,
-          "left": 12327,
-          "top": 6,
+          "time": 245517,
+          "left": 12357,
+          "top": 79,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4397,20 +4397,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_27.jpg",
       "title": "bb_27.jpg",
       "statusBar": "Image 38",
-      "createTime": 206232,
-      "deleteTime": 266232,
+      "createTime": 232328,
+      "deleteTime": 292328,
       "keyframes": [
         {
-          "time": 206232,
-          "left": 12754,
-          "top": 101,
+          "time": 232328,
+          "left": 12748,
+          "top": 127,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 207830,
-          "left": 12754,
-          "top": 101,
+          "time": 234465,
+          "left": 12748,
+          "top": 127,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4421,20 +4421,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_33.jpg",
       "title": "bb_33.jpg",
       "statusBar": "Image 39",
-      "createTime": 214632,
-      "deleteTime": 274632,
+      "createTime": 233528,
+      "deleteTime": 293528,
       "keyframes": [
         {
-          "time": 214632,
-          "left": 13116,
-          "top": 322,
+          "time": 233528,
+          "left": 13078,
+          "top": 33,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 215686,
-          "left": 13116,
-          "top": 322,
+          "time": 235139,
+          "left": 13078,
+          "top": 33,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4445,20 +4445,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_40.jpg",
       "title": "bb_40.jpg",
       "statusBar": "Image 40",
-      "createTime": 214032,
-      "deleteTime": 274032,
+      "createTime": 241628,
+      "deleteTime": 301628,
       "keyframes": [
         {
-          "time": 214032,
-          "left": 13326,
-          "top": 360,
+          "time": 241628,
+          "left": 13350,
+          "top": 387,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 216550,
-          "left": 13326,
-          "top": 360,
+          "time": 244361,
+          "left": 13350,
+          "top": 387,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4469,20 +4469,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_41.jpg",
       "title": "bb_41.jpg",
       "statusBar": "Image 41",
-      "createTime": 205332,
-      "deleteTime": 265332,
+      "createTime": 238328,
+      "deleteTime": 298328,
       "keyframes": [
         {
-          "time": 205332,
-          "left": 13758,
-          "top": 575,
+          "time": 238328,
+          "left": 13823,
+          "top": 143,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 207481,
-          "left": 13758,
-          "top": 575,
+          "time": 239516,
+          "left": 13823,
+          "top": 143,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4493,20 +4493,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_43.jpg",
       "title": "bb_43.jpg",
       "statusBar": "Image 42",
-      "createTime": 213132,
-      "deleteTime": 273132,
+      "createTime": 235328,
+      "deleteTime": 295328,
       "keyframes": [
         {
-          "time": 213132,
-          "left": 14096,
-          "top": 583,
+          "time": 235328,
+          "left": 14098,
+          "top": 219,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 214942,
-          "left": 14096,
-          "top": 583,
+          "time": 237428,
+          "left": 14098,
+          "top": 219,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4517,20 +4517,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_42.jpg",
       "title": "bb_42.jpg",
       "statusBar": "Image 43",
-      "createTime": 207132,
-      "deleteTime": 267132,
+      "createTime": 238628,
+      "deleteTime": 298628,
       "keyframes": [
         {
-          "time": 207132,
-          "left": 14357,
-          "top": 208,
+          "time": 238628,
+          "left": 14367,
+          "top": 461,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 208550,
-          "left": 14357,
-          "top": 208,
+          "time": 240375,
+          "left": 14367,
+          "top": 461,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4541,20 +4541,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_45.jpg",
       "title": "bb_45.jpg",
       "statusBar": "Image 44",
-      "createTime": 211632,
-      "deleteTime": 271632,
+      "createTime": 237728,
+      "deleteTime": 297728,
       "keyframes": [
         {
-          "time": 211632,
-          "left": 14799,
-          "top": 364,
+          "time": 237728,
+          "left": 14779,
+          "top": 406,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 214001,
-          "left": 14799,
-          "top": 364,
+          "time": 240468,
+          "left": 14779,
+          "top": 406,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4565,20 +4565,20 @@
       "image": "./converted/exhibition_images/RTI files_Copper plates/2024-09-20 Lewis Walpole Library RTI/2024-09-20 Lewis Walpole Library RTI/hogarth_764_00_00_43/jpeg-exports/bb_44.jpg",
       "title": "bb_44.jpg",
       "statusBar": "Image 45",
-      "createTime": 211932,
-      "deleteTime": 271932,
+      "createTime": 238928,
+      "deleteTime": 298928,
       "keyframes": [
         {
-          "time": 211932,
-          "left": 15130,
-          "top": 329,
+          "time": 238928,
+          "left": 15054,
+          "top": 348,
           "opacity": 0,
           "scale": 0.2765957446808511
         },
         {
-          "time": 214749,
-          "left": 15130,
-          "top": 329,
+          "time": 241531,
+          "left": 15054,
+          "top": 348,
           "opacity": 1,
           "scale": 0.2765957446808511
         }
@@ -4589,20 +4589,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Unknown_Sayer_1768.jpg",
       "title": "Harlot's Progress plate 2_Unknown_Sayer_1768.jpg",
       "statusBar": "Harlot's Progress plate 2| Unknown (1768), LWL. ",
-      "createTime": 236849,
-      "deleteTime": 296849,
+      "createTime": 262131,
+      "deleteTime": 322131,
       "keyframes": [
         {
-          "time": 236849,
-          "left": 745,
-          "top": 304,
+          "time": 262131,
+          "left": 706,
+          "top": 207,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 239039,
-          "left": 745,
-          "top": 304,
+          "time": 264866,
+          "left": 706,
+          "top": 207,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4613,20 +4613,20 @@
       "image": "./converted/exhibition_images/Battle of Pictures/Harlots Progress Plate 2 State 1_Hogarth_Apr 1732.jpg",
       "title": "Harlots Progress Plate 2 State 1_Hogarth_Apr 1732.jpg",
       "statusBar": "Harlots Progress Plate 2 State 1| Hogarth (1732), LWL. ",
-      "createTime": 238649,
-      "deleteTime": 298649,
+      "createTime": 264531,
+      "deleteTime": 324531,
       "keyframes": [
         {
-          "time": 238649,
-          "left": 1582,
-          "top": 379,
+          "time": 264531,
+          "left": 1591,
+          "top": 600,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 240385,
-          "left": 1582,
-          "top": 379,
+          "time": 266027,
+          "left": 1591,
+          "top": 600,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4637,20 +4637,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Harlot\u2019s Progress Tight Grip (4)~hi.jpg",
       "title": "A Harlot\u2019s Progress Tight Grip (4)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 239249,
-      "deleteTime": 299249,
+      "createTime": 266631,
+      "deleteTime": 326631,
       "keyframes": [
         {
-          "time": 239249,
-          "left": 2157,
-          "top": 212,
+          "time": 266631,
+          "left": 2263,
+          "top": 355,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 242243,
-          "left": 2157,
-          "top": 212,
+          "time": 268872,
+          "left": 2263,
+          "top": 355,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4661,20 +4661,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Davenport_Jones & Co._1833.jpg",
       "title": "Harlot's Progress plate 2_Davenport_Jones & Co._1833.jpg",
       "statusBar": "Image 4",
-      "createTime": 235049,
-      "deleteTime": 295049,
+      "createTime": 261831,
+      "deleteTime": 321831,
       "keyframes": [
         {
-          "time": 235049,
-          "left": 3007,
-          "top": 302,
+          "time": 261831,
+          "left": 3014,
+          "top": 6,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 237645,
-          "left": 3007,
-          "top": 302,
+          "time": 263724,
+          "left": 3014,
+          "top": 6,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4685,20 +4685,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Clerk_Scholey_1810.jpg",
       "title": "Harlot's Progress plate 2_Clerk_Scholey_1810.jpg",
       "statusBar": "Harlot's Progress plate 2| Clerk (1810), LWL. ",
-      "createTime": 235949,
-      "deleteTime": 295949,
+      "createTime": 266031,
+      "deleteTime": 326031,
       "keyframes": [
         {
-          "time": 235949,
-          "left": 3750,
-          "top": 362,
+          "time": 266031,
+          "left": 3714,
+          "top": 209,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 236983,
-          "left": 3750,
-          "top": 362,
+          "time": 267714,
+          "left": 3714,
+          "top": 209,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4709,20 +4709,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Davenport_London Printing and Publishing_1860s.jpg",
       "title": "Harlot's Progress plate 2_Davenport_London Printing and Publishing_1860s.jpg",
       "statusBar": "Harlot's Progress plate 2| Davenport (1860's), LWL. ",
-      "createTime": 238349,
-      "deleteTime": 298349,
+      "createTime": 264231,
+      "deleteTime": 324231,
       "keyframes": [
         {
-          "time": 238349,
-          "left": 4445,
-          "top": 491,
+          "time": 264231,
+          "left": 4484,
+          "top": 387,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 240066,
-          "left": 4445,
-          "top": 491,
+          "time": 265409,
+          "left": 4484,
+          "top": 387,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4733,20 +4733,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Corbould & Dent_Boydell_1793.jpg",
       "title": "Harlot's Progress plate 2_Corbould & Dent_Boydell_1793.jpg",
       "statusBar": "Harlot's Progress plate 2| Corbould & Dent (1793), LWL. ",
-      "createTime": 235349,
-      "deleteTime": 295349,
+      "createTime": 261531,
+      "deleteTime": 321531,
       "keyframes": [
         {
-          "time": 235349,
-          "left": 5270,
-          "top": 222,
+          "time": 261531,
+          "left": 5334,
+          "top": 299,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 237710,
-          "left": 5270,
-          "top": 222,
+          "time": 263274,
+          "left": 5334,
+          "top": 299,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4757,20 +4757,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Harlot\u2019s Progress Loose Grip (4)~hi.jpg",
       "title": "A Harlot\u2019s Progress Loose Grip (4)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 235649,
-      "deleteTime": 295649,
+      "createTime": 263331,
+      "deleteTime": 323331,
       "keyframes": [
         {
-          "time": 235649,
-          "left": 5903,
-          "top": 309,
+          "time": 263331,
+          "left": 5938,
+          "top": 583,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 238127,
-          "left": 5903,
-          "top": 309,
+          "time": 265833,
+          "left": 5938,
+          "top": 583,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4781,20 +4781,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Corbould & Dent_Boydell_1791.jpg",
       "title": "Harlot's Progress plate 2_Corbould & Dent_Boydell_1791.jpg",
       "statusBar": "Harlot's Progress plate 2| Corbould & Dent (1791), LWL. ",
-      "createTime": 239849,
-      "deleteTime": 299849,
+      "createTime": 263631,
+      "deleteTime": 323631,
       "keyframes": [
         {
-          "time": 239849,
-          "left": 6801,
-          "top": 256,
+          "time": 263631,
+          "left": 6790,
+          "top": 473,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 241720,
-          "left": 6801,
-          "top": 256,
+          "time": 264668,
+          "left": 6790,
+          "top": 473,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4805,20 +4805,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Harlot\u2019s Progress Tight Grip (3)~hi.jpg",
       "title": "A Harlot\u2019s Progress Tight Grip (3)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 236249,
-      "deleteTime": 296249,
+      "createTime": 263931,
+      "deleteTime": 323931,
       "keyframes": [
         {
-          "time": 236249,
-          "left": 7493,
-          "top": 168,
+          "time": 263931,
+          "left": 7553,
+          "top": 104,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 237487,
-          "left": 7493,
-          "top": 168,
+          "time": 265230,
+          "left": 7553,
+          "top": 104,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4829,20 +4829,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Harlot\u2019s Progress Tight Grip (2)~hi.jpg",
       "title": "A Harlot\u2019s Progress Tight Grip (2)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 237449,
-      "deleteTime": 297449,
+      "createTime": 262731,
+      "deleteTime": 322731,
       "keyframes": [
         {
-          "time": 237449,
-          "left": 8337,
-          "top": 404,
+          "time": 262731,
+          "left": 8312,
+          "top": 56,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 239075,
-          "left": 8337,
-          "top": 404,
+          "time": 263733,
+          "left": 8312,
+          "top": 56,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4853,20 +4853,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Harlot\u2019s Progress Loose Grip (1)~hi.jpg",
       "title": "A Harlot\u2019s Progress Loose Grip (1)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 240149,
-      "deleteTime": 300149,
+      "createTime": 266331,
+      "deleteTime": 326331,
       "keyframes": [
         {
-          "time": 240149,
-          "left": 9024,
-          "top": 582,
+          "time": 266331,
+          "left": 9100,
+          "top": 84,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 241917,
-          "left": 9024,
-          "top": 582,
+          "time": 268041,
+          "left": 9100,
+          "top": 84,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4877,20 +4877,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Cook_Longman_1807.jpg",
       "title": "Harlot's Progress plate 2_Cook_Longman_1807.jpg",
       "statusBar": "Harlot's Progress plate 2| Cook (1807), LWL. ",
-      "createTime": 239549,
-      "deleteTime": 299549,
+      "createTime": 263031,
+      "deleteTime": 323031,
       "keyframes": [
         {
-          "time": 239549,
-          "left": 9673,
-          "top": 493,
+          "time": 263031,
+          "left": 9791,
+          "top": 305,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 242458,
-          "left": 9673,
-          "top": 493,
+          "time": 264424,
+          "left": 9791,
+          "top": 305,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4901,20 +4901,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Cook_Stockdale_1806.jpg",
       "title": "Harlot's Progress plate 2_Cook_Stockdale_1806.jpg",
       "statusBar": "Harlot's Progress plate 2| Cook (1806), LWL. ",
-      "createTime": 237149,
-      "deleteTime": 297149,
+      "createTime": 266931,
+      "deleteTime": 326931,
       "keyframes": [
         {
-          "time": 237149,
-          "left": 10403,
-          "top": 189,
+          "time": 266931,
+          "left": 10432,
+          "top": 422,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 240111,
-          "left": 10403,
-          "top": 189,
+          "time": 269086,
+          "left": 10432,
+          "top": 422,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4925,20 +4925,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Harlot\u2019s Progress Loose Grip (3)~hi.jpg",
       "title": "A Harlot\u2019s Progress Loose Grip (3)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 236549,
-      "deleteTime": 296549,
+      "createTime": 265131,
+      "deleteTime": 325131,
       "keyframes": [
         {
-          "time": 236549,
-          "left": 11331,
-          "top": 203,
+          "time": 265131,
+          "left": 11196,
+          "top": 214,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 238217,
-          "left": 11331,
-          "top": 203,
+          "time": 267565,
+          "left": 11196,
+          "top": 214,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4949,20 +4949,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progres plate 2_Unknown_Simpkin_1880.jpg",
       "title": "Harlot's Progres plate 2_Unknown_Simpkin_1880.jpg",
       "statusBar": "Harlot's Progress plate 2| Unknown (1880), LWL. ",
-      "createTime": 238949,
-      "deleteTime": 298949,
+      "createTime": 262431,
+      "deleteTime": 322431,
       "keyframes": [
         {
-          "time": 238949,
-          "left": 11991,
-          "top": 282,
+          "time": 262431,
+          "left": 11957,
+          "top": 153,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 240690,
-          "left": 11991,
-          "top": 282,
+          "time": 263508,
+          "left": 11957,
+          "top": 153,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4973,20 +4973,20 @@
       "image": "./converted/exhibition_images/Harlot's Progress Plate 2/Harlot's Progress plate 2_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "title": "Harlot's Progress plate 2_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "statusBar": "Harlot's Progress plate 2| Heath (1835), LWL. ",
-      "createTime": 234749,
-      "deleteTime": 294749,
+      "createTime": 264831,
+      "deleteTime": 324831,
       "keyframes": [
         {
-          "time": 234749,
-          "left": 12742,
-          "top": 180,
+          "time": 264831,
+          "left": 12741,
+          "top": 108,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 237307,
-          "left": 12742,
-          "top": 180,
+          "time": 266277,
+          "left": 12741,
+          "top": 108,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -4997,20 +4997,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Harlot\u2019s Progress Loose Grip (2)~hi.jpg",
       "title": "A Harlot\u2019s Progress Loose Grip (2)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 238049,
-      "deleteTime": 298049,
+      "createTime": 265431,
+      "deleteTime": 325431,
       "keyframes": [
         {
-          "time": 238049,
-          "left": 13438,
-          "top": 216,
+          "time": 265431,
+          "left": 13551,
+          "top": 464,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 239391,
-          "left": 13438,
-          "top": 216,
+          "time": 268246,
+          "left": 13551,
+          "top": 464,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -5021,20 +5021,20 @@
       "image": "./converted/exhibition_images/Lubaina Himid/A Harlot\u2019s Progress Tight Grip (1)~hi.jpg",
       "title": "A Harlot\u2019s Progress Tight Grip (1)~hi.jpg",
       "statusBar": "| Lubaina Himid (), Contemporary Artist. With kind permission of Lubaina Himid, Magda Stawarska and Cristea Roberts Gallery, London",
-      "createTime": 237749,
-      "deleteTime": 297749,
+      "createTime": 265731,
+      "deleteTime": 325731,
       "keyframes": [
         {
-          "time": 237749,
-          "left": 14263,
-          "top": 234,
+          "time": 265731,
+          "left": 14160,
+          "top": 29,
           "opacity": 0,
           "scale": 0.6190476190476191
         },
         {
-          "time": 239208,
-          "left": 14263,
-          "top": 234,
+          "time": 266990,
+          "left": 14160,
+          "top": 29,
           "opacity": 1,
           "scale": 0.6190476190476191
         }
@@ -5045,19 +5045,19 @@
       "image": "./converted/exhibition_images/Gin Lane/Huntington Lib_Hogarth_Gin Lane.jpg",
       "title": "Huntington Lib_Hogarth_Gin Lane.jpg",
       "statusBar": "Gin Lane| Attributed to William Hogarth (n.d.), Huntington Library. Attributed to William Hogarth (British, 1697-1764), Gin Lane, n.d. Black and red pencil, 16 1/4 x 12 1/2 in. (41.3 x 31.8 cm). The Huntington Library, Art Museum, and Botanical Gardens. \u00a9 Courtesy of the Huntington Art Museum, San Marino, California.",
-      "createTime": 260208,
-      "deleteTime": 320208,
+      "createTime": 296990,
+      "deleteTime": 356990,
       "keyframes": [
         {
-          "time": 260208,
-          "left": 860,
+          "time": 296990,
+          "left": 887,
           "top": 98,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 261791,
-          "left": 860,
+          "time": 299888,
+          "left": 887,
           "top": 98,
           "opacity": 1,
           "scale": 0.65
@@ -5069,20 +5069,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Marks_To gin drinkers.jpg",
       "title": "Marks_To gin drinkers.jpg",
       "statusBar": "To gin drinkers!!| John Lewis Marks (between 1832-1855), LWL. ",
-      "createTime": 271208,
-      "deleteTime": 331208,
+      "createTime": 291990,
+      "deleteTime": 351990,
       "keyframes": [
         {
-          "time": 271208,
-          "left": 1484,
-          "top": 156,
+          "time": 291990,
+          "left": 1583,
+          "top": 70,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 273630,
-          "left": 1484,
-          "top": 156,
+          "time": 293120,
+          "left": 1583,
+          "top": 70,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5093,20 +5093,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Detail for Hogarth Gin Lane.jpg",
       "title": "Detail for Hogarth Gin Lane.jpg",
       "statusBar": "Detail from a copy of Hogarth's Gin lane| William Hogarth (between 1770-1800?), LWL. ",
-      "createTime": 275208,
-      "deleteTime": 335208,
+      "createTime": 293990,
+      "deleteTime": 353990,
       "keyframes": [
         {
-          "time": 275208,
-          "left": 2411,
-          "top": 181,
+          "time": 293990,
+          "left": 2403,
+          "top": 53,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 277732,
-          "left": 2411,
-          "top": 181,
+          "time": 295253,
+          "left": 2403,
+          "top": 53,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5117,20 +5117,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Gin Lane_Clerk_Scholey_1810.jpg",
       "title": "Gin Lane_Clerk_Scholey_1810.jpg",
       "statusBar": "Gin Lane| Clerk (1810), LWL. ",
-      "createTime": 272208,
-      "deleteTime": 332208,
+      "createTime": 298990,
+      "deleteTime": 358990,
       "keyframes": [
         {
-          "time": 272208,
-          "left": 3054,
-          "top": 90,
+          "time": 298990,
+          "left": 3076,
+          "top": 120,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 273308,
-          "left": 3054,
-          "top": 90,
+          "time": 301118,
+          "left": 3076,
+          "top": 120,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5141,20 +5141,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Gin Lane_Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "title": "Gin Lane_Unknown_Oliphant Anderson & Ferrier_1883.jpg",
       "statusBar": "Gin Lane| Unknown (1883), LWL. ",
-      "createTime": 262208,
-      "deleteTime": 322208,
+      "createTime": 287990,
+      "deleteTime": 347990,
       "keyframes": [
         {
-          "time": 262208,
-          "left": 3973,
-          "top": 46,
+          "time": 287990,
+          "left": 3881,
+          "top": 24,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 264675,
-          "left": 3973,
-          "top": 46,
+          "time": 290793,
+          "left": 3881,
+          "top": 24,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5165,20 +5165,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Gin Lane_Unknown_London Printing and Publishing_1860s.jpg",
       "title": "Gin Lane_Unknown_London Printing and Publishing_1860s.jpg",
       "statusBar": "Gin Lane| Unknown (1860's), LWL. ",
-      "createTime": 273208,
-      "deleteTime": 333208,
+      "createTime": 288990,
+      "deleteTime": 348990,
       "keyframes": [
         {
-          "time": 273208,
-          "left": 4714,
-          "top": 42,
+          "time": 288990,
+          "left": 4806,
+          "top": 101,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 275854,
-          "left": 4714,
-          "top": 42,
+          "time": 291398,
+          "left": 4806,
+          "top": 101,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5189,20 +5189,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Hogarth_Gin Lane_State 3.jpg",
       "title": "Hogarth_Gin Lane_State 3.jpg",
       "statusBar": "Gin Lane| William Hogarth (Feb 1, 1751), LWL. ",
-      "createTime": 268208,
-      "deleteTime": 328208,
+      "createTime": 299990,
+      "deleteTime": 359990,
       "keyframes": [
         {
-          "time": 268208,
-          "left": 5589,
-          "top": 57,
+          "time": 299990,
+          "left": 5579,
+          "top": 29,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 270559,
-          "left": 5589,
-          "top": 57,
+          "time": 301917,
+          "left": 5579,
+          "top": 29,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5213,20 +5213,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Gin Lane_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "title": "Gin Lane_Heath (restored by)_Baldwin and Cradock_1835.jpg",
       "statusBar": "Gin Lane| Unknown (1835), LWL. ",
-      "createTime": 259208,
-      "deleteTime": 319208,
+      "createTime": 294990,
+      "deleteTime": 354990,
       "keyframes": [
         {
-          "time": 259208,
-          "left": 6387,
-          "top": 114,
+          "time": 294990,
+          "left": 6356,
+          "top": 185,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 261620,
-          "left": 6387,
-          "top": 114,
+          "time": 297863,
+          "left": 6356,
+          "top": 185,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5237,20 +5237,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Cook_Gin Lane.jpg",
       "title": "Cook_Gin Lane.jpg",
       "statusBar": "Gin Lane| Thomas Cook (June 1, 1800), LWL. ",
-      "createTime": 270208,
-      "deleteTime": 330208,
+      "createTime": 286990,
+      "deleteTime": 346990,
       "keyframes": [
         {
-          "time": 270208,
-          "left": 7089,
-          "top": 61,
+          "time": 286990,
+          "left": 7111,
+          "top": 41,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 272749,
-          "left": 7089,
-          "top": 61,
+          "time": 288934,
+          "left": 7111,
+          "top": 41,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5261,20 +5261,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Rowson_Gin Lane Palimpsest.jpg",
       "title": "Rowson_Gin Lane Palimpsest.jpg",
       "statusBar": "Gin Lane | Martin Rowson (), Contemporary Artist. ",
-      "createTime": 274208,
-      "deleteTime": 334208,
+      "createTime": 300990,
+      "deleteTime": 360990,
       "keyframes": [
         {
-          "time": 274208,
-          "left": 7936,
-          "top": 105,
+          "time": 300990,
+          "left": 7883,
+          "top": 54,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 276760,
-          "left": 7936,
-          "top": 105,
+          "time": 302902,
+          "left": 7883,
+          "top": 54,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5285,20 +5285,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Riepenhausen Group_Gin Lane.jpg",
       "title": "Riepenhausen Group_Gin Lane.jpg",
       "statusBar": "[Groups from Hogarth's \"Gin Lane\". I]| Ernst Ludwig Riepenhausen (not before 1787), LWL. ",
-      "createTime": 269208,
-      "deleteTime": 329208,
+      "createTime": 302990,
+      "deleteTime": 362990,
       "keyframes": [
         {
-          "time": 269208,
-          "left": 8618,
-          "top": 46,
+          "time": 302990,
+          "left": 8668,
+          "top": 62,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 270220,
-          "left": 8618,
-          "top": 46,
+          "time": 304439,
+          "left": 8668,
+          "top": 62,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5309,20 +5309,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Bell_The death of Boris Yeltsin.jpg",
       "title": "Bell_The death of Boris Yeltsin.jpg",
       "statusBar": "The death of Boris Yeltsin| Steve Bell (), Contemporary Artist. ",
-      "createTime": 264208,
-      "deleteTime": 324208,
+      "createTime": 290990,
+      "deleteTime": 350990,
       "keyframes": [
         {
-          "time": 264208,
-          "left": 9430,
-          "top": 114,
+          "time": 290990,
+          "left": 9403,
+          "top": 86,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 265980,
-          "left": 9430,
-          "top": 114,
+          "time": 293267,
+          "left": 9403,
+          "top": 86,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5333,20 +5333,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Gin Lane_Unknown_Simpkin_1880.jpg",
       "title": "Gin Lane_Unknown_Simpkin_1880.jpg",
       "statusBar": "Gin Lane| Unknown (1880), LWL. ",
-      "createTime": 267208,
-      "deleteTime": 327208,
+      "createTime": 303990,
+      "deleteTime": 363990,
       "keyframes": [
         {
-          "time": 267208,
-          "left": 10285,
-          "top": 81,
+          "time": 303990,
+          "left": 10145,
+          "top": 180,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 269858,
-          "left": 10285,
-          "top": 81,
+          "time": 305082,
+          "left": 10145,
+          "top": 180,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5357,20 +5357,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Williams_Blinding Leading the Blind.jpg",
       "title": "Williams_Blinding Leading the Blind.jpg",
       "statusBar": "Blind Leading the Blind Alley| Nick Williams (), Contemporary Artist. ",
-      "createTime": 276208,
-      "deleteTime": 336208,
+      "createTime": 292990,
+      "deleteTime": 352990,
       "keyframes": [
         {
-          "time": 276208,
-          "left": 10972,
-          "top": 159,
+          "time": 292990,
+          "left": 11089,
+          "top": 172,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 278413,
-          "left": 10972,
-          "top": 159,
+          "time": 295441,
+          "left": 11089,
+          "top": 172,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5381,20 +5381,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Morgan Lib_Hogarth_Gin Lane.jpg",
       "title": "Morgan Lib_Hogarth_Gin Lane.jpg",
       "statusBar": "Gin Street| William Hogarth (1750-1751), Morgan Library. The Morgan Library & Museum. III, 36. Purchased by Pierpont Morgan (1837-1913) in 1909.",
-      "createTime": 263208,
-      "deleteTime": 323208,
+      "createTime": 289990,
+      "deleteTime": 349990,
       "keyframes": [
         {
-          "time": 263208,
-          "left": 11893,
-          "top": 178,
+          "time": 289990,
+          "left": 11706,
+          "top": 3,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 265959,
-          "left": 11893,
-          "top": 178,
+          "time": 291744,
+          "left": 11706,
+          "top": 3,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5405,20 +5405,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Les Satyres ... Gin Lane.jpg",
       "title": "Les Satyres ... Gin Lane.jpg",
       "statusBar": "Image 16",
-      "createTime": 266208,
-      "deleteTime": 326208,
+      "createTime": 295990,
+      "deleteTime": 355990,
       "keyframes": [
         {
-          "time": 266208,
-          "left": 12632,
-          "top": 182,
+          "time": 295990,
+          "left": 12646,
+          "top": 83,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 267995,
-          "left": 12632,
-          "top": 182,
+          "time": 297903,
+          "left": 12646,
+          "top": 83,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5429,20 +5429,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Gin Lane_Dent_Boydell_1791.jpg",
       "title": "Gin Lane_Dent_Boydell_1791.jpg",
       "statusBar": "Gin Lane| Dent (1791), LWL. ",
-      "createTime": 265208,
-      "deleteTime": 325208,
+      "createTime": 301990,
+      "deleteTime": 361990,
       "keyframes": [
         {
-          "time": 265208,
-          "left": 13443,
-          "top": 6,
+          "time": 301990,
+          "left": 13289,
+          "top": 167,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 267539,
-          "left": 13443,
-          "top": 6,
+          "time": 303706,
+          "left": 13289,
+          "top": 167,
           "opacity": 1,
           "scale": 0.65
         }
@@ -5453,20 +5453,20 @@
       "image": "./converted/exhibition_images/Gin Lane/Gin Lane_Dent_Boydell_1793.jpg",
       "title": "Gin Lane_Dent_Boydell_1793.jpg",
       "statusBar": "Gin Lane| Dent (1793), LWL. ",
-      "createTime": 261208,
-      "deleteTime": 321208,
+      "createTime": 297990,
+      "deleteTime": 357990,
       "keyframes": [
         {
-          "time": 261208,
-          "left": 14096,
-          "top": 151,
+          "time": 297990,
+          "left": 14073,
+          "top": 126,
           "opacity": 0,
           "scale": 0.65
         },
         {
-          "time": 263747,
-          "left": 14096,
-          "top": 151,
+          "time": 299043,
+          "left": 14073,
+          "top": 126,
           "opacity": 1,
           "scale": 0.65
         }
