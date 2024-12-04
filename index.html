@@ -62,7 +62,7 @@
         const WINDOW_PAD_WIDTH = 40; // Padding width for the window
       
         // Load the JSON animation file
-        fetch('https://gist.githubusercontent.com/leoimpett/8e982baf2642bee83ee38db97944c277/raw/f142aff44ccb61cad235663f33d6dcb7e69ae189/combined_folders.json')
+        fetch('https://leoimpett.github.io/hogarth95/combined_folders.json')
             .then(response => response.json())
             .then(data => {
               const imagePaths = data.windows.map(window => window.image);
