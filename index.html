@@ -81,6 +81,12 @@
       
         function startAnimations(data) {
           const windows = data.windows;
+
+          // Set timer to start the creation of the youtube window
+          setTimeout(() => {
+            createTextWindow('youtubeplayer', 'GUNSVEHICLESPIZZASCELEBS (Eleanor Dare 2024)', '<iframe width="1160" height="1120" src="https://www.youtube.com/embed/a9HcJuDqpTo?si=2naCxl5jRNwok4n-&autoplay=1&mute=1&loop=1&playlist=a9HcJuDqpTo" title="YouTube video player" frameborder="0" allow="autoplay" allowfullscreen></iframe>', 100, 100, 1200, 1200)
+          }, 240000);
+          // 240000
       
           function animate(time) {
             if (!startTime) startTime = time;
@@ -110,6 +116,9 @@
                   );
                   activeWindows['textWindow1'] = true; // Track this window as active
                 }
+
+
+
 
       
             // Loop through the windows
